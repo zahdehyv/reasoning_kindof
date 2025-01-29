@@ -1,0 +1,12 @@
+{
+    "questions": [
+      "Sea A un conjunto de 4 elementos, calcule cuántas relaciones binarias se pueden definir en A.",
+      "Sea A un conjunto de 5 elementos, calcule cuántas relaciones binarias reflexivas se pueden definir en A.",
+      "Sea A un conjunto de 6 elementos, calcule cuántas relaciones binarias simétricas se pueden definir en A."
+    ],
+    "answers": [
+      65536,
+      1048576,
+      2097152
+     ]
+  }

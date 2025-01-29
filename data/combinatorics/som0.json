@@ -1,0 +1,12 @@
+{
+    "questions": [
+      "Determine el número de subconjuntos de tamaño k del conjunto {1, 2, ..., n} donde no existen dos elementos consecutivos. Escriba el valor entero para n=49 y k=2",
+      "Determine el número de subconjuntos de tamaño k del conjunto {1, 2, ..., n} donde no existen dos elementos consecutivos. Escriba el valor entero para n=53 y k=3",
+      "Determine el número de subconjuntos de tamaño k del conjunto {1, 2, ..., n} donde no existen dos elementos consecutivos. Escriba el valor entero para n=79 y k=38"
+    ],
+    "answers": [
+      1128,
+      20825,
+      111930
+     ]
+  }

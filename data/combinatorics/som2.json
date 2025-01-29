@@ -1,0 +1,10 @@
+{
+    "questions": [
+      "Calcule el número de soluciones a la ecuación x₁ + x₂ + x₃ + x₄ = 50 donde xᵢ es impar, xᵢ > 0.",
+      "Calcule el número de soluciones a la ecuación x₁ + x₂ + x₃ + x₄ = 88 donde xᵢ es impar, xᵢ > 0."
+    ],
+    "answers": [
+      2600,
+      14190
+     ]
+  }

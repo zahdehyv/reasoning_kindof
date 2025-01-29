@@ -1,0 +1,10 @@
+{
+    "questions": [
+      "Calcule el número de enteros de 5 dígitos divisibles por 3 y que contienen al 9.",
+      "Calcule el número de enteros de 5 dígitos divisibles por 3 y que NO contienen al 9."
+    ],
+    "answers": [
+      12504,
+      17496
+     ]
+  }

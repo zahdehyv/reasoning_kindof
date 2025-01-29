@@ -1,0 +1,8 @@
+{
+    "questions": [
+      "Una permutación de n elementos diferentes es casi creciente si existe solo una posición k de la permutación (k entre 1 y n) donde aₖ>aₖ₊₁. Determine el número de permutaciones casi crecientes en S = {1,2,3...10}."
+    ],
+    "answers": [
+      1013
+     ]
+  }

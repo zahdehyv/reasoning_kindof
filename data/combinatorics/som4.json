@@ -1,0 +1,10 @@
+{
+    "questions": [
+      "Sea E un conjunto de tamaño 5. Calcular el número de pares de subconjuntos no ordenados (A, B) de E no vacíos y con intersección nula.",
+      "Sea E un conjunto de tamaño 10. Calcular el número de pares de subconjuntos no ordenados (A, B) de E no vacíos y con intersección nula."
+    ],
+    "answers": [
+      90,
+      28501
+     ]
+  }
