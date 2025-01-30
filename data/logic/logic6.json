@@ -1,7 +1,7 @@
 {
-    "question":"En la Isla de los Truhanes y Caballeros, los caballeros siempre dicen la verdad, los truhanes siempre miente y ningun habitante de la Isla es truhan o caballero a la vez. Hay tres habitantes A, B y C de la Isla de los Truhanes y Caballeros se encuentran y hacen los siguientes planteamientos: A: Todos somos truhanes B: Exactamente uno de nosotros es caballero. Pregunta: ¿Qué son A, B y C?",
+    "questions":"En la Isla de los Truhanes y Caballeros, los caballeros siempre dicen la verdad, los truhanes siempre miente y ningun habitante de la Isla es truhan o caballero a la vez. Hay tres habitantes A, B y C de la Isla de los Truhanes y Caballeros se encuentran y hacen los siguientes planteamientos: A: Todos somos truhanes B: Exactamente uno de nosotros es caballero. Pregunta: ¿Qué son A, B y C?",
     "reasoning": "A no puede ser caballero porque si no su planteamiento fuera cierto y eso implicaría que tendría que ser truhán. Luego A es truhán. Ahora si B es truhán entonces su planteamiento sería falso luego tendría que haber entre ellos más de un caballero o ninguno. Si hubiera más de un caballero entonces A y C tendrían que ser caballeros contradiciendo que A es truhán. Luego ninguno de los tres puede se caballero, pero entonces el planteamiento de A sería verdadero lo cual contradice que A es truhán. Luego, B no puede ser truhán y sería caballero. Como el planteamiento de B es verdadero entonces C es truhán. Entonces A es truhán, B es caballero, C es truhán",   
-    "answer":"2",
+    "answers":[2],
     "options":{
         "1":"A es truhán, B es caballero, C es caballero",
         "2":"A es truhán, B es caballero, C es truhán",
