@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "\n        ```python\n        \ndef random_function(x):\n    a = 2\n    b = 1\n    c = 0\n    \n    for _ in range(5):\n        c = a - x\n        a = a - c\n        c = x - x\n        b = b + a\n        c = x - b\n        a = c - c\n        c = c - a\n        a = c - a\n        c = c + c\n        x = x - b\n        c = a + b\n        x = c + c\n        x = c + x\n        x = a - b\n        b = b + x\n        b = c - c\n        b = x - a\n    return int(x)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 72`.\n        \n        Especifica el valor devuelto (int).\n        ",
+        "\n        ```python\n        \ndef random_function(x):\n    a = 2\n    b = 1\n    c = 0\n    \n    for _ in range(5):\n        c = a - x\n        a = a - c\n        c = x - x\n        b = b + a\n        c = x - b\n        a = c - c\n        c = c - a\n        a = c - a\n        c = c + c\n        x = x - b\n        c = a + b\n        x = c + c\n        x = c + x\n        x = a - b\n        b = b + x\n        b = c - c\n        b = x - a\n    return int(x)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 61`.\n        \n        Especifica el valor devuelto (int).\n        ",
+        "\n        ```python\n        \ndef random_function(x):\n    a = 2\n    b = 1\n    c = 0\n    \n    for _ in range(5):\n        c = a - x\n        a = a - c\n        c = x - x\n        b = b + a\n        c = x - b\n        a = c - c\n        c = c - a\n        a = c - a\n        c = c + c\n        x = x - b\n        c = a + b\n        x = c + c\n        x = c + x\n        x = a - b\n        b = b + x\n        b = c - c\n        b = x - a\n    return int(x)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 42`.\n        \n        Especifica el valor devuelto (int).\n        "
+    ],
+    "answers": [
+        -3010,
+        -2559,
+        -1780
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "\n        ```python\n        \ndef random_function(x):\n    a = 0\n    b = 1\n    c = 3\n    \n    for _ in range(7):\n        x = x - b\n        b = a - b\n        b = c + x\n        a = a - b\n        b = b + a\n        x = a - b\n        b = c - a\n        c = x - a\n        c = c - x\n        c = b + x\n        x = c - x\n        x = x - b\n        x = a + x\n        x = a + a\n        c = c - c\n        a = a - c\n        c = c + a\n        c = x - b\n    return int(x)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 21`.\n        \n        Especifica el valor devuelto (int).\n        ",
+        "\n        ```python\n        \ndef random_function(x):\n    a = 0\n    b = 1\n    c = 3\n    \n    for _ in range(7):\n        x = x - b\n        b = a - b\n        b = c + x\n        a = a - b\n        b = b + a\n        x = a - b\n        b = c - a\n        c = x - a\n        c = c - x\n        c = b + x\n        x = c - x\n        x = x - b\n        x = a + x\n        x = a + a\n        c = c - c\n        a = a - c\n        c = c + a\n        c = x - b\n    return int(x)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 28`.\n        \n        Especifica el valor devuelto (int).\n        ",
+        "\n        ```python\n        \ndef random_function(x):\n    a = 0\n    b = 1\n    c = 3\n    \n    for _ in range(7):\n        x = x - b\n        b = a - b\n        b = c + x\n        a = a - b\n        b = b + a\n        x = a - b\n        b = c - a\n        c = x - a\n        c = c - x\n        c = b + x\n        x = c - x\n        x = x - b\n        x = a + x\n        x = a + a\n        c = c - c\n        a = a - c\n        c = c + a\n        c = x - b\n    return int(x)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 30`.\n        \n        Especifica el valor devuelto (int).\n        "
+    ],
+    "answers": [
+        -2159866,
+        -2785596,
+        -2964376
+    ]
+}

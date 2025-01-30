@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "\n        ```python\n        \ndef random_function(x):\n    a = 5\n    b = 4\n    c = 4\n    \n    for _ in range(9):\n        b = c + x\n        c = b - c\n        c = b + a\n        c = c + x\n        c = c - c\n        c = c + b\n        c = a - a\n        b = a - b\n        a = b + b\n        a = a - b\n        c = b + x\n        b = x - c\n        c = b - b\n        a = a - x\n        c = a + b\n        c = b + c\n        x = b - x\n        a = a - c\n    return int(x)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 26`.\n        \n        Especifica el valor devuelto (int).\n        ",
+        "\n        ```python\n        \ndef random_function(x):\n    a = 5\n    b = 4\n    c = 4\n    \n    for _ in range(9):\n        b = c + x\n        c = b - c\n        c = b + a\n        c = c + x\n        c = c - c\n        c = c + b\n        c = a - a\n        b = a - b\n        a = b + b\n        a = a - b\n        c = b + x\n        b = x - c\n        c = b - b\n        a = a - x\n        c = a + b\n        c = b + c\n        x = b - x\n        a = a - c\n    return int(x)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 59`.\n        \n        Especifica el valor devuelto (int).\n        ",
+        "\n        ```python\n        \ndef random_function(x):\n    a = 5\n    b = 4\n    c = 4\n    \n    for _ in range(9):\n        b = c + x\n        c = b - c\n        c = b + a\n        c = c + x\n        c = c - c\n        c = c + b\n        c = a - a\n        b = a - b\n        a = b + b\n        a = a - b\n        c = b + x\n        b = x - c\n        c = b - b\n        a = a - x\n        c = a + b\n        c = b + c\n        x = b - x\n        a = a - c\n    return int(x)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 68`.\n        \n        Especifica el valor devuelto (int).\n        "
+    ],
+    "answers": [
+        304145,
+        718559,
+        831581
+    ]
+}

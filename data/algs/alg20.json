@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "\n        ```python\n        \ndef random_function(x):\n    a = 3\n    b = 0\n    c = 5\n    \n    for _ in range(4):\n        b = b - a\n        b = b + x\n        c = a + x\n        c = b - b\n    return int(b)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 21`.\n        \n        Especifica el valor devuelto (int).\n        ",
+        "\n        ```python\n        \ndef random_function(x):\n    a = 3\n    b = 0\n    c = 5\n    \n    for _ in range(4):\n        b = b - a\n        b = b + x\n        c = a + x\n        c = b - b\n    return int(b)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 22`.\n        \n        Especifica el valor devuelto (int).\n        ",
+        "\n        ```python\n        \ndef random_function(x):\n    a = 3\n    b = 0\n    c = 5\n    \n    for _ in range(4):\n        b = b - a\n        b = b + x\n        c = a + x\n        c = b - b\n    return int(b)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 8`.\n        \n        Especifica el valor devuelto (int).\n        "
+    ],
+    "answers": [
+        72,
+        76,
+        20
+    ]
+}

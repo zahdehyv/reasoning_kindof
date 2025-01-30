@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "\n        ```python\n        \ndef random_function(x):\n    a = 3\n    b = 5\n    c = 2\n    \n    for _ in range(6):\n        c = c - c\n        b = c - x\n        a = x + x\n        c = c + b\n        a = a - b\n        x = a - x\n        b = b - b\n    return int(x)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 35`.\n        \n        Especifica el valor devuelto (int).\n        ",
+        "\n        ```python\n        \ndef random_function(x):\n    a = 3\n    b = 5\n    c = 2\n    \n    for _ in range(6):\n        c = c - c\n        b = c - x\n        a = x + x\n        c = c + b\n        a = a - b\n        x = a - x\n        b = b - b\n    return int(x)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 34`.\n        \n        Especifica el valor devuelto (int).\n        ",
+        "\n        ```python\n        \ndef random_function(x):\n    a = 3\n    b = 5\n    c = 2\n    \n    for _ in range(6):\n        c = c - c\n        b = c - x\n        a = x + x\n        c = c + b\n        a = a - b\n        x = a - x\n        b = b - b\n    return int(x)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 22`.\n        \n        Especifica el valor devuelto (int).\n        "
+    ],
+    "answers": [
+        2240,
+        2176,
+        1408
+    ]
+}
