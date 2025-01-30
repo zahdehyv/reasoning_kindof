@@ -1,0 +1,11 @@
+{
+    "question": "Caballeros, bribones y normales. Hay una isla en la que ciertos habitantes llamados \"caballeros\" siempre dicen la verdad y otros llamados \"bribones\" siempre mienten. Pero también hay \"normales\", que a veces mienten y a veces dicen la verdad. Se supone que cada habitante de la isla es un caballero, un bribón o un normal. En el problema hay 3 habitantes, que se denotan por A, B, C. Al menos uno es un caballero y al menos uno es un bribón. Cada uno de ellos hace una afirmación. ¿Quién es un caballero, quién es un bribón y quién es un normal? A: \"C es un bribón si y solo si B es un bribón\". B: \"A es un bribón si y solo si C es un bribón\". C: \"B es un caballero y A es un bribón\".",
+    "reasoning": "",
+    "answer": "2",
+    "options": {
+        "1": "A es un bribón. B es normal. C es caballero.",
+        "2": "A es un caballero. B es un bribón. C es un bribón.",
+        "3": "A es normal. B es caballero. C es bribón.",
+        "4": "A es caballero. B es caballero. C es normal."
+    }
+}

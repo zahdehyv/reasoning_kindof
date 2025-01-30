@@ -1,0 +1,11 @@
+I{
+    "question": "Isla de los Sordos. Hay una isla en la que todos los habitantes son casi sordos. Pertenecen a una de dos tribus: izquierda o derecha. Se supone que todos los habitantes de la isla son izquierdistas o diestros. Debido a su casi sordera, se comunican solo de persona a persona. La regla es que cuando dos personas de la misma tribu se comunican, dicen la verdad, y cuando son de diferentes tribus, mienten. En el problema hay 5 habitantes, que se denotan por A, B, C, …. El primer habitante dice algo al segundo. El segundo habitante dice algo al tercero… El último habitante dice algo al primero. ¿Quién es de izquierda y quién es de derecha? De A a B: \"C es derecha si y solo si E es izquierda\". De B a C: \"A es derecha y D es izquierda\". De C a D: \"D es izquierda si y solo si A es derecha\". De D a E: \"C es derecha si y solo si A es izquierda\". De E a A: \"C es izquierda y A es derecha\".",
+    "reasoning": "",
+    "answer": "1",
+    "options": {
+        "1": "A is left. B is left. C is left. D is left. E is left.",
+        "2": "A is right. B is left. C is right. D is right. E is left.",
+        "3": "A is left. B is right. C is left. D is right. E is right.",
+        "4": "A is right. B is right. C is left. D is left. E is right."
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "question": "Una isla en la que algunos nativos llamados \"caballeros\" siempre dicen la verdad y otros nativos llamados \"bribones\" siempre mienten. Supongamos que cada nativo es un caballero o un bribón. En el problema, hay 10 nativos, A, B, C, …, cada uno de los cuales hace una afirmación sobre el número de caballeros en un conjunto. Conocen el conjunto vacío { } sin caballeros. Su vocabulario es bastante limitado; solo hablan de números pares {0, 2, 4, …} e impares {1, 3, 5, …}. La afirmación del último nativo no se registró correctamente, pero un lógico que la escuchó pudo inferir quién era un caballero y quién un bribón. ¿Puedes inferir quién es un caballero y quién es un bribón? A dijo: \"En el conjunto {B, E, H} hay un número par de caballeros\". B dijo: \"En el conjunto {C, D, F, I, J} hay un número impar de caballeros\". C dijo: \"En el conjunto {A, D, G, I} hay un número par de caballeros\". D dijo: \"En el conjunto {A, B, E, G, I, J} hay un número par de caballeros\". E dijo: \"En el conjunto {B, C, F, H, J} hay un número impar de caballeros\". F dijo: \"En el conjunto {B, D, E, G} hay un número par de caballeros\". G dijo: \"En el conjunto {C, D, E, F, H, I} hay un número par de caballeros\". H dijo: \"En el conjunto {A, B, D, I, J} hay un número par de caballeros\". I dijo: \"En el conjunto {G, H, J} hay un número impar de caballeros\". Entonces J dijo una de las tres afirmaciones siguientes: En el conjunto {E, G, H} hay un número impar de caballeros. En el conjunto {E, G, H} hay un número par de caballeros. En el conjunto {A, B, E, I} hay un número par de caballeros.",
+    "reasoning": "",
+    "answer": "1",
+    "options": {
+        "1": "Caballeros: {B, C}. Bribones: {A, D, E, F, G, H, I, J}.",
+        "2": "Caballeros: {A}. Bribones: {B}.",
+        "3": "Caballeros: {D}. Bribones: {A}.",
+        "4": "Caballeros: {E}. Bribones: {C}."
+    }
+}

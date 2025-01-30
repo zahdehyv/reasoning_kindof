@@ -1,0 +1,11 @@
+{
+    "question": "La isla de los caballeros y los bribones. Hay una isla en la que algunos habitantes, llamados \"caballeros\", siempre dicen la verdad y otros, llamados \"bribones\", siempre mienten. Se supone que cada habitante de la isla es un caballero o un bribón. En el problema hay 3 habitantes, que se denotan por A, B, C, …. Cada uno de ellos hace una afirmación sobre el número de caballeros en un conjunto. Los nativos denotan los conjuntos como {PQR…} (sin comas). También conocen el conjunto vacío {}. Su vocabulario es bastante limitado. Generalmente hablan de números pares {0, 2, 4, …} e impares {1, 3, 5, …}. ¿Quiénes son los caballeros y quiénes son los bribones? El nativo A dijo: \"En el conjunto {C, F} hay un número impar de caballeros\". El nativo B dijo: \"En el conjunto {A, E, J} hay un número par de caballeros\". El nativo C dijo: \"En el conjunto {E, F, H, J} hay un número par de caballeros\". El nativo D dijo: \"En el conjunto {A, F, G, J} hay un número impar de caballeros\". El nativo E dijo: \"En el conjunto {B, C, H} hay un número impar de caballeros\". El nativo F dijo: \"En el conjunto {J} hay un número impar de caballeros\". El nativo G dijo: \"En el conjunto {A, E, J} hay un número par de caballeros\". El nativo H dijo: \"En el conjunto {E, J} hay un número par de caballeros\". El nativo I dijo: \"En el conjunto {D, E} hay un número impar de caballeros\". El nativo J dijo: \"En el conjunto {A, C, D, I} hay un número impar de caballos\".",
+    "reasoning": "",
+    "answer": "3",
+    "options": {
+        "1": "Knights: A C E G H. Knaves: B D F I J.",
+        "2": "Knights: A B C D E. Knaves: F G H I J.",
+	"3": "Knights: B D G H I. Knaves: A C E F J.",
+        "4": "Knights: A B F H J. Knaves: C D E G I."
+    }
+}

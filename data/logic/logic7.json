@@ -1,0 +1,11 @@
+{
+    "question": "Caballeros y bribones. Hay una isla en la que ciertos habitantes llamados caballeros siempre dicen la verdad y otros llamados bribones que siempre mienten. Se supone que cada habitante de la isla es caballero o bribón. En el problema hay 7 habitantes, que se indican con los símbolos A, B, C,... Los primeros 7 de ellos hacen una afirmación. ¿Quién es un caballero y quién un bribón? A: G es un caballero, si y solo si F es un caballero. B: E es un caballero y G es un caballero. C: D es un caballero y A es un caballero. D: C es un bribón o A es un bribón. E: C es un caballero, si y solo si B es un caballero. F: Si D es un bribón, entonces C es un bribón.",
+    "reasoning": "",
+    "answer": "1",
+    "options": {
+        "1": "A es un bribón, B es un bribón, C es un bribón, D es un caballero, E es un caballero, F es un caballero, G es un bribón.",
+        "2": "A es un caballero, B es un bribón, C es un bribón, D es un caballero, E es un caballero, F es un caballero, G es un bribón.",
+        "3": "A es un bribón, B es un caballero, C es un caballero, D es un caballero, E es un caballero, F es un bribón, G es un bribón.",
+        "4": "A es un bribón, B es un bribón, C es un bribón, D es un caballero, E es un caballero, F es un caballero."
+    }
+}

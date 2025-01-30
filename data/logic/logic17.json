@@ -1,0 +1,11 @@
+{
+    "question": "Caballeros y truhanes. Hay una isla en la que ciertos habitantes llamados caballeros siempre dicen la verdad y otros llamados truhanes que siempre mienten. Se supone que cada habitante de la isla es caballero o truhán. En el problema hay 7 habitantes, que se indican con los símbolos A, B, C,... Los primeros 9 de ellos hacen una afirmación. ¿Quién es un caballero y quién un truhán? Si B es un truhán, entonces D es un truhán. F es un caballero si y solo si G es un caballero. Si D es un caballero, entonces I es un truhán. I es un caballero si y solo si E es un truhán. B es un caballero o C es un truhán. A es un truhán si y solo si D es un caballero. F es un truhán y A es un truhán. A es un truhán o C es un caballero. H es un truhán o C es un truhán.",
+    "reasoning": "",
+    "answer": "3",
+    "options": {
+        "1": "A es normal. B es normal.",
+        "2": "A es un caballero. B es un truhán. C es un caballero. D es un caballero. E es un truhán. F es un caballero. G es un caballero. H es un caballero. I es un caballero.",
+        "3": "A es un truhán. B es un truhán. C es un caballero. D es un caballero. E es un truhán. F es un caballero. G es un caballero. H es un caballero. I es un caballero.",
+        "4": "A es normal."
+    }
+}
