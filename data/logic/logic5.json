@@ -1,0 +1,11 @@
+{
+    "question":"En los casos del Inspector Craig, siempre se plantean proposiciones que se saben que son verdaderas y a partir de ellas hay que descubrir al o a los culpables. En cierto caso del inspector Craig se encontró la siguiente situación. Habían tres sospechosos de robo: A, B y C, que fueron arrestados y sometidos a un fuerte interrogatorio. Una vez concluido este se establecieron los siguientes hechos: 1.El día del robo la tienda solo fue visitada por A, B y C. 2. Si A es culpable tiene exactamente un cómplice. 3. Si B es inocente entonces C no es culpable. 4. Si C es inocente entonces B no es culpable. Diga a quién puede acusar el inspector Craig.",
+    "reasoning": "Analicemos los casos posibles teniendo en cuenta la cantidad de culpables. Supongamos que existe un solo culpable: No puede ser A porque si lo fuera tendría un cómplice porque si A es culpable entonces tiene exactamente un cómplice contradiciendo la existencia de un solo culpable. Tampoco puede ser B porque si C es inocente entonces también lo sería B porque si C es inocente entonces tambiñen lo es B. De igual forma, no puede ser C porque si B es inocente entonces también lo sería C porque si B es inocente entonces también lo es C. Luego, no existe un solo culpable. Supongamos que existen dos culpables: En este caso, uno de los culpables debe ser A porque si exactamente dos son culpables entonces A es uno de ellos. Si el otro fuera B entonces C es inocente. Pero si C es inocente entonces también lo es B porque si C es inocente entonces también lo es B, contradiciendo que B es culpable. Si el otro fuera C entonces B es inocente. Pero si B es inocente entonces también lo es C porque si B es inocente entonces también lo es C, contradiciendo que C es culpable. Luego, no puede haber dos culpables. Entonces nos queda la alternativa de que los tres sean culpables: Esta suposición no puede ser verdadera pues se contradice con que si A es culpable entonces tiene exactamente un cómplice. Hemos llegado a la conclusión de que los hechos son contradictorios y de que el inspector no tiene argumentos para acusar a ninguno de los sospechosos.",   
+    "answer":"2",
+    "options":{
+        "1":"A, B, C",
+        "2":"Nadie",
+        "3":"A, B",
+        "4":"C"
+    }
+}
