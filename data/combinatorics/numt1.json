@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Tenemos tres números enteros a, b y c tales que a, b, c,a +b -c, a +c -b, b +c -a y a +b +c son siete primos distintos. Sea d la diferencia entre el mayor y el menor de estos siete primos. Supongamos que 800 es un elemento del conjunto {a + b, b + c, c + a}. Determinar el valor máximo posible de d."
+    ],
+    "answers": [
+        1594
+     ]
+}

@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Se dice que un número positivo de 10 dígitos es interesante si todos sus dígitos son distintos y es múltiplo de 11111. ¿Cuántos enteros interesantes hay?" 
+    ],
+    "answers": [
+        3456
+     ]
+}

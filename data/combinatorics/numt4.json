@@ -1,0 +1,7 @@
+{
+    "questions": [
+        "En cada cara de un cubo se escribe un número entero positivo. Entonces a cada vértice se le asigna el producto de los números escritos en las tres caras que intersectan el vértice. La suma de los números asignados a todos los vértices es igual a 1001. Encuentra la suma de los números escritos en las caras del cubo." ],
+    "answers": [
+        31
+     ]
+}

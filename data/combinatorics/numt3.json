@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Llamamos a un entero positivo N un \" 7-10 doble \" si los dígitos de la representación en base 7 de N forma un número en base 10 que es el doble de N. Por ejemplo, 51 es un \" 7-10 doble \" porque su representación en base 7 es 102.¿Cual es el \" 7-10 doble \" más grande?"
+    ],
+    "answers": [
+        315
+     ]
+}

@@ -1,0 +1,8 @@
+{
+    "questions": [
+    "Sea S = {105, 106, ..., 210}. Queremos encontrar el valor mínimo de n tal que cualquier subconjunto T de n elementos de S contenga al menos dos elementos que no sean primos relativos."
+    ],
+    "answers": [
+      26
+     ]
+}
