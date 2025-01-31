@@ -2,7 +2,7 @@ import os
 import json
 import time
 import re
-
+from dotenv import load_dotenv
 import google.generativeai as genai
 from google.ai.generativelanguage_v1beta.types import content
 
@@ -10,6 +10,8 @@ from google.ai.generativelanguage_v1beta.types import content
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
 # Load dataset
+
+
 def load_dataset(dir_path):
     all_questions = []
     all_answers = []
@@ -18,7 +20,8 @@ def load_dataset(dir_path):
         # Ordenar archivos numéricamente
         files = sorted(
             [f for f in files if f.endswith('.json')],  # Filtrar solo JSON
-            key=lambda x: int(''.join(filter(str.isdigit, x)))  # Extraer números del nombre
+            key=lambda x: int(''.join(filter(str.isdigit, x))
+                              )  # Extraer números del nombre
         )
         for file_name in files:
             if not file_name.endswith('.json'):
@@ -27,7 +30,8 @@ def load_dataset(dir_path):
             with open(file_path, 'r', encoding='utf8') as f:
                 data = json.load(f)
                 if not root == 'data/logic':
-                    assert len(data['questions']) == len(data['answers']), f"Mismatch in {file_path}"
+                    assert len(data['questions']) == len(
+                        data['answers']), f"Mismatch in {file_path}"
                 all_questions.append(data['questions'])
                 all_answers.append(data['answers'])
                 if 'options' in data.keys():
@@ -35,22 +39,29 @@ def load_dataset(dir_path):
     return all_questions, all_answers, all_options
 
 # Initialize model with function calling
+
+
 def initialize_model():
     return genai.GenerativeModel(
         model_name="gemini-2.0-flash-exp",
-        generation_config = {
-            "temperature": 0.6,
+        generation_config={
+            "temperature": 1,
             "top_p": 0.95,
             "top_k": 40,
             "max_output_tokens": 8192,
             "response_mime_type": "text/plain",
-            }   
+        },
+        system_instruction="""
+        Muy Importante lo siguiente :Devuelve el resultado final en una lista de enteros donde el valor de la respuesta este entre los tags < answer > </answer > . Seleccionar multiples opciones como respuesta esta mal, solo una de las opciones es la respuesta correcta """
     )
 
 # Process questions and evaluate answers
+
+
 def evaluate_model(model, questions, answers, options):
     correct = 0
     results = []
+    print(answers)
 
     for idx, (question, answer) in enumerate(zip(questions, answers)):
         try:
@@ -69,38 +80,42 @@ def evaluate_model(model, questions, answers, options):
 
             # Extract the response text
             response_text = response.text.strip()
-            
-            
+
             patron = r"<answer>(.*?)</answer>"
             resultados = re.findall(patron, response_text)
-            
-                    
+
             # Try to parse the response as a number or list of numbers
             try:
-                selection = [int(resultado) for resultado in resultados]
-            except json.JSONDecodeError:
-                selection = response_text
-                
-            print(f"="*53)
-            print(f"Model response: \n{response_text}")
-            print(f"\n- Given answer -> {selection}")
-            print(f"- Expected answer -> {answer}")
-            print(f"="*53,"\n\n")
-            
+                selection = json.loads(resultados[0])
+
+            except (json.JSONDecodeError, ValueError):
+                selection = resultados[0]
+
+            # Normalize to list for comparison
+            if not isinstance(selection, list):
+                selection = [selection]
+            if not isinstance(answer, list):
+                answer = [answer]
+
+            # Convert tuples to lists for comparison
+            selection = [list(item) if isinstance(item, tuple)
+                         else item for item in selection]
+            answer = [list(item) if isinstance(item, tuple)
+                      else item for item in answer]
+
             # Evaluate response
-            if isinstance(answer, (int, float)):
-                is_correct = float(selection) == float(answer)
-            elif isinstance(answer, list):
-                is_correct = True
-                if not isinstance(selection, list):
-                    is_correct = False
-                else:
-                    for inner_index in range(len(answer)):
+            is_correct = True
+            if len(selection) != len(answer):
+                is_correct = False
+            else:
+                for inner_index in range(len(answer)):
+                    try:
                         if float(selection[inner_index]) != float(answer[inner_index]):
                             is_correct = False
                             break
-            else:
-                is_correct = str(selection) == str(answer)
+                    except (ValueError, TypeError):
+                        is_correct = False
+                        break
 
             if is_correct:
                 correct += 1
