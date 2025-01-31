@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Morteza y Joseph tienen 100 cajas tales que por cada 1 ≤ i ≤ 100 una de estas cajas tiene exactamente i monedas. Joseph coloca las cajas una encima de la otra en el orden que prefiere. Ahora en 10 pasos Morteza recoge monedas de la siguiente manera: en cada paso, Morteza recoge las 10 cajas superiores, las abre y luego selecciona una de las cajas que ya ha abierto (esto también incluye todas las cajas que ha abierto en los pasos anteriores) y recoge todas las monedas de esa caja. ¿Cuál es la cantidad máxima de monedas que Morteza siempre puede recolectar independientemente de la forma en que Joseph ordena las cajas?"
+    ],
+        "answers": [
+        550
+     ]
+}

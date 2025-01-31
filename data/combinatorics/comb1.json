@@ -1,0 +1,8 @@
+{
+    "questions": [
+        "Sea T un árbol. En cada paso se nos permite actualizar T eliminando una arista y luego dibujando un nueva arista de modo que T siga siendo un árbol. Si T tiene 2024 vértices y tiene un diámetro de 100, después de un paso ¿cuál es el diámetro mínimo posible de T?"
+    ],
+        "answers": [
+        51
+     ]
+}
