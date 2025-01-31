@@ -37,10 +37,14 @@ def load_dataset(dir_path):
 def initialize_model():
     return genai.GenerativeModel(
         model_name="gemini-2.0-flash-exp",
-        generation_config={
-            "temperature": 0.5,  # Reduced for more deterministic answers
-            "max_output_tokens": 200,
-        },
+        generation_config = {
+            "temperature": 1,
+            "top_p": 0.95,
+            "top_k": 40,
+            "max_output_tokens": 8192,
+            "response_mime_type": "text/plain",
+            }   
+,
         tools=[genai.protos.Tool(
             function_declarations=[genai.protos.FunctionDeclaration(
                 name="submit_answer",
