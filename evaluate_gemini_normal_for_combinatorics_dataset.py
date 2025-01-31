@@ -11,6 +11,7 @@ from openai import api_key
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 # Load dataset
 
+
 def load_dataset(dir_path):
     all_questions = []
     all_answers = []
@@ -139,7 +140,7 @@ def evaluate_model(model, questions, answers, options):
 # Main execution
 if __name__ == "__main__":
     # Load data and model
-    questions, answers, options = load_dataset("data/algs")
+    questions, answers, options = load_dataset("data/combinatorics")
     model = initialize_model()
 
     # Run evaluation

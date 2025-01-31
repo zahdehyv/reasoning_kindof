@@ -11,6 +11,7 @@ from openai import api_key
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 # Load dataset
 
+
 def load_dataset(dir_path):
     all_questions = []
     all_answers = []
@@ -51,7 +52,7 @@ def initialize_model():
             "response_mime_type": "text/plain",
         },
         system_instruction="""
-        Muy Importante lo siguiente :Devuelve el resultado final en una lista de enteros donde el valor de la respuesta este entre los tags < answer > </answer > . """
+        Muy Importante lo siguiente :Devuelve el resultado final en una lista de enteros donde el valor de la respuesta este entre los tags < answer > </answer > . Seleccionar multiples opciones como respuesta esta mal, solo una de las opciones es la respuesta correcta """
     )
 
 # Process questions and evaluate answers
@@ -139,7 +140,7 @@ def evaluate_model(model, questions, answers, options):
 # Main execution
 if __name__ == "__main__":
     # Load data and model
-    questions, answers, options = load_dataset("data/algs")
+    questions, answers, options = load_dataset("data/logic")
     model = initialize_model()
 
     # Run evaluation

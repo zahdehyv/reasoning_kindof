@@ -11,6 +11,7 @@ from openai import api_key
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 # Load dataset
 
+
 def load_dataset(dir_path):
     all_questions = []
     all_answers = []
