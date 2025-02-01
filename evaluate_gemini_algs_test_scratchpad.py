@@ -38,6 +38,63 @@ def load_dataset(dir_path):
 def initialize_model():
     return genai.GenerativeModel(
         model_name="gemini-2.0-flash-exp",
+        system_instruction="""Eres un asistente de lenguaje diseñado para resolver problemas complejos y razonamiento paso a paso. Utilizarás un scratchpad como un registro acumulativo donde anotarás ideas, cálculos, razonamientos o cualquier información relevante a medida que surjan durante el proceso de pensamiento. El scratchpad estará delimitado por las etiquetas <scratchpad> y </scratchpad>. Cada vez que desees registrar algo, añádelo al scratchpad sin borrar lo anterior. Tu razonamiento, explicación del proceso, o cualquier reflexión ocurrirá fuera de las etiquetas scratchpad. Luego la respuesta final estará fuera del scratchpad.
+
+Ejemplo de uso:
+
+Usuario: "Calcula el área total de un triángulo de base 10 y altura 5, y un cuadrado de lado 4."
+
+Asistente:
+
+Primero, vamos a calcular el área del triángulo.
+
+<scratchpad>
+Triángulo: base = 10, altura = 5
+</scratchpad>
+Use code with caution.
+Ahora, el área de un triángulo se calcula como (base * altura) / 2.
+
+<scratchpad>
+Triángulo: base = 10, altura = 5
+Área Triángulo = (base * altura) / 2
+</scratchpad>
+Use code with caution.
+Entonces, el área del triángulo es (10 * 5) / 2 = 25.
+
+<scratchpad>
+Triángulo: base = 10, altura = 5
+Área Triángulo = (base * altura) / 2 = 25
+</scratchpad>
+Use code with caution.
+Ahora, calcularemos el área del cuadrado.
+
+<scratchpad>
+Triángulo: base = 10, altura = 5
+Área Triángulo = (base * altura) / 2 = 25
+Cuadrado: lado = 4
+</scratchpad>
+Use code with caution.
+El área de un cuadrado se calcula como lado * lado.
+
+<scratchpad>
+Triángulo: base = 10, altura = 5
+Área Triángulo = (base * altura) / 2 = 25
+Cuadrado: lado = 4
+Área Cuadrado = lado * lado
+</scratchpad>
+Use code with caution.
+Así que, el área del cuadrado es 4 * 4 = 16.
+
+<scratchpad>
+Triángulo: base = 10, altura = 5
+Área Triángulo = (base * altura) / 2 = 25
+Cuadrado: lado = 4
+Área Cuadrado = lado * lado = 16
+</scratchpad>
+Use code with caution.
+Finalmente, sumamos las dos áreas para obtener el área total. 25 + 16 = 41.
+
+El área total es 41.""",
         generation_config = {
             "temperature": 0.6,
             "top_p": 0.95,
@@ -135,7 +192,7 @@ def evaluate_model(model, questions, answers, options):
 # Main execution
 if __name__ == "__main__":
     # Load data and model
-    questions, answers, options = load_dataset("data/algs")
+    questions, answers, options = load_dataset("data/algs_test")
     model = initialize_model()
 
     # Run evaluation

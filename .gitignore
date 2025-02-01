@@ -3,3 +3,4 @@
 tests.ipynb
 /__pycache__
 .env
+ignore.txt

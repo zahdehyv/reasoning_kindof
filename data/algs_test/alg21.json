@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "\n        ```python\n        \ndef random_function(x):\n    a = 3\n    b = 3\n    c = 1\n    \n    for _ in range(5):\n        a = a - c\n        x = c - x\n        c = x + c\n        a = a - b\n        c = x + a\n        x = x - x\n        x = x + a\n        x = c - b\n        b = a + b\n        x = b - b\n        x = c + b\n        a = a - x\n        c = c - x\n        x = b + x\n        b = a - b\n        c = b - a\n    return int(c)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 72`.\n        \n        Especifica el valor devuelto (int).\n        ",
+        "\n        ```python\n        \ndef random_function(x):\n    a = 3\n    b = 3\n    c = 1\n    \n    for _ in range(5):\n        a = a - c\n        x = c - x\n        c = x + c\n        a = a - b\n        c = x + a\n        x = x - x\n        x = x + a\n        x = c - b\n        b = a + b\n        x = b - b\n        x = c + b\n        a = a - x\n        c = c - x\n        x = b + x\n        b = a - b\n        c = b - a\n    return int(c)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 8`.\n        \n        Especifica el valor devuelto (int).\n        ",
+        "\n        ```python\n        \ndef random_function(x):\n    a = 3\n    b = 3\n    c = 1\n    \n    for _ in range(5):\n        a = a - c\n        x = c - x\n        c = x + c\n        a = a - b\n        c = x + a\n        x = x - x\n        x = x + a\n        x = c - b\n        b = a + b\n        x = b - b\n        x = c + b\n        a = a - x\n        c = c - x\n        x = b + x\n        b = a - b\n        c = b - a\n    return int(c)\n    \n        ```\n        \n        Ejecuta la funci\u00f3n `random_function` con el valor de entrada `x = 76`.\n        \n        Especifica el valor devuelto (int).\n        "
+    ],
+    "answers": [
+        339,
+        19,
+        359
+    ]
+}
