@@ -1,0 +1,20 @@
+Let g(y) = 2*y**2 + y - 1. Let a = -912 - -912. Determine g(a).
+-1
+Let z = 8 + -11. Let b(m) = m + 1. Suppose 14*c = -24 - 32. Let x(p) = -5*p - 4. Let v(j) = c*b(j) - x(j). Determine v(z).
+-3
+Let o(m) = -8*m - 14. Let h be o(-3). Suppose -21*r + h*r + 55 = 0. Let v(p) = p**2 - 3*p - 3. What is v(r)?
+7
+Let z(h) = h**2 - 7*h - 2. Suppose 12*l = 15*l - 9. Suppose 360 = 27*f - 9*f. Suppose l*i - f = -i. Calculate z(i).
+-12
+Let m(r) = 720*r - 109. Let p be m(6). Let u(z) = -z**3 + 2 - 2*z**2 + 0*z**3 + p*z - 4207*z. Calculate u(-3).
+-1
+Let g(j) be the first derivative of 50 - 6*j - 3/2*j**2. Determine g(-3).
+3
+Let f be (6/12 - 2)*6*4/3. Let m(b) = -b**3 - 11*b**2 + 13*b + 7. Calculate m(f).
+-5
+Let d(x) be the second derivative of x**3/3 - 57*x**2/2 - 1194*x. Determine d(33).
+9
+Let j(i) = 2 - i. Suppose 0 = -113*t + 129*t - 624. Let y = -13 - 23. Let k = t + y. Calculate j(k).
+-1
+Suppose 21*c = -2276 - 391. Let u = c + 117. Let m(z) = z**3 + 9*z**2 - 12*z - 11. Give m(u).
+9

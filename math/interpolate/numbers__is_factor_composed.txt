@@ -1,0 +1,20 @@
+Let p(y) = -471*y - 642. Is p(-2) a multiple of 4?
+True
+Suppose 841 + 212 = -13*t. Let m = 196 + t. Is m a multiple of 23?
+True
+Let g = 27 - 11. Suppose -g = 3*d + 5*t - 3, -2*t - 8 = 4*d. Let x(n) = -26*n**3 + n**2 + n. Is 13 a factor of x(d)?
+True
+Let c = -3989 + 10424. Is 99 a factor of c?
+True
+Let k(z) = -z**2 - 9*z - 6. Suppose 0 = h - 3*n + 23, 5*h + n + 45 = 2*n. Let i be k(h). Suppose -i*c = -q + 2*c + 122, 5*c = 2*q - 259. Is q a multiple of 24?
+False
+Let j(l) = 141 - 9*l - 10*l**2 - 101 + 11*l**2. Is 12 a factor of j(9)?
+False
+Let k(s) = 8*s + 27. Let g be (8/(-10))/(-1 - 15/(-25)). Is k(g) a multiple of 13?
+False
+Let l(o) = 36 + 0*o - 13 + 25 - 6*o. Does 21 divide l(-6)?
+True
+Let u = -1256 - -3402. Is 70 a factor of u?
+False
+Let y = -7959 + 13991. Is 38 a factor of y?
+False

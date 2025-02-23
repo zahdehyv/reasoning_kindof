@@ -1,0 +1,20 @@
+What is prob of sequence ii when two letters picked without replacement from {e: 11, r: 4, i: 2}?
+1/136
+Two letters picked without replacement from ssssssdssss. What is prob of sequence ss?
+9/11
+What is prob of sequence ac when two letters picked without replacement from {x: 1, c: 1, z: 1, u: 1, a: 2}?
+1/15
+Two letters picked without replacement from {c: 2, j: 1, y: 6, e: 2, l: 2, f: 3}. What is prob of sequence yf?
+3/40
+What is prob of sequence fend when four letters picked without replacement from edeeddfnefe?
+1/264
+Three letters picked without replacement from wwgiwwwirwwiwwxr. Give prob of sequence xgr.
+1/1680
+Calculate prob of sequence qq when two letters picked without replacement from qqsqaaqqq.
+5/12
+Calculate prob of sequence nn when two letters picked without replacement from uugufnbxffuuuuugnf.
+1/153
+Two letters picked without replacement from {f: 1, d: 3, y: 4, l: 3, a: 1}. What is prob of sequence yd?
+1/11
+Four letters picked without replacement from liorcg. Give prob of sequence lgri.
+1/360

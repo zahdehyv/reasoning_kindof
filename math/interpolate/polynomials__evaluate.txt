@@ -1,0 +1,20 @@
+Let d(k) = -k**3 - 13*k**2 + 81*k + 1038. Give d(-12).
+-78
+Let x(w) = 1557 - 487*w. Give x(3).
+96
+Let m(q) = -3*q**2 - 342*q + 161. Determine m(-116).
+-535
+Let h(w) = -w**3 + 25*w**2 - 113*w - 390. Determine h(17).
+1
+Let w(f) = 108*f**3 - 23*f**2 + 4*f + 4. Give w(-1).
+-131
+Let m(b) = 2*b**3 - 5*b**2 + 26*b - 49. Determine m(7).
+574
+Let x(q) = 68059 - 3241*q. Calculate x(21).
+-2
+Let u(v) = v**2 - 4433*v - 187944. Give u(-42).
+6
+Let o(h) = h**3 - 69*h**2 - 877*h - 35. What is o(-11)?
+-68
+Let m(d) = -264*d - 10619. Give m(-40).
+-59

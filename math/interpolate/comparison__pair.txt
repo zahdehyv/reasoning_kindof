@@ -1,0 +1,20 @@
+Is 41 <= 58607?
+True
+Is 266/423369 equal to -1?
+False
+Which is greater: -196 or 3750?
+3750
+Is -8751683/2 at least as big as -4375841?
+False
+Is -451876 bigger than -451892?
+True
+Which is smaller: -3 or -3611/1952?
+-3
+Which is smaller: 1 or 329/34448?
+329/34448
+Is 44596/1899 not equal to 23?
+True
+Are -543338 and 7 non-equal?
+True
+Is 1.6 at least as big as 350764?
+False

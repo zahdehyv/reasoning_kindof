@@ -1,0 +1,20 @@
+What is 0.00000819997977829 rounded to 7 decimal places?
+0.0000082
+What is -29.5039693695 rounded to four dps?
+-29.504
+Round -39628.0409579 to the nearest 10.
+-39630
+Round -116589.770425 to the nearest 100.
+-116600
+Round -19918270.11148 to the nearest 1000000.
+-20000000
+Round 8332.3473461 to the nearest ten.
+8330
+What is -0.00001297379320004 rounded to six dps?
+-0.000013
+What is -212.3524921535 rounded to one decimal place?
+-212.4
+Round -5148.36683531 to two decimal places.
+-5148.37
+What is 0.0264213558979 rounded to 5 dps?
+0.02642

@@ -1,0 +1,20 @@
+Let z(m) = -m**3 - 41*m**2 - 54*m - 258. Calculate z(-40).
+302
+Let i(k) = -7*k - 222. Give i(-32).
+2
+Let a(j) = -88*j - 9599. Determine a(-107).
+-183
+Let k(b) = -5059*b - 50551. Determine k(-10).
+39
+Let i(j) = 2*j**2 - 42*j - 38. What is i(21)?
+-38
+Let h(a) = 7*a**3 - a**2 + 28*a - 100. Determine h(3).
+164
+Let r(x) = -x**3 - 5*x**2 - 19*x - 51. Give r(-4).
+9
+Let l(z) = 192 - 245*z. Calculate l(0).
+192
+Let n(x) = -8*x - 3. Calculate n(3).
+-27
+Let d(w) = 15*w + 102. Give d(-11).
+-63

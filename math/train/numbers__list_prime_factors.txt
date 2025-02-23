@@ -1,0 +1,20 @@
+List the prime factors of 2607647.
+7, 17, 1289
+List the prime factors of 14477998.
+2, 7238999
+List the prime factors of 5040134657.
+1669, 3019853
+What are the prime factors of 985?
+5, 197
+List the prime factors of 313005.
+3, 5, 7, 11, 271
+What are the prime factors of 1101660?
+2, 3, 5, 7, 43, 61
+List the prime factors of 5498.
+2, 2749
+What are the prime factors of 104038971?
+3, 79, 438983
+List the prime factors of 337861.
+337861
+What are the prime factors of 1563339698?
+2, 557, 1403357

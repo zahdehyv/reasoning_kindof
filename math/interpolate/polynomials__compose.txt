@@ -1,0 +1,20 @@
+Let g(i) be the third derivative of -i**4/8 + 23*i**2. Let v(p) be the third derivative of -p**5/15 + 30*p**2 + 3*p. Give v(g(d)).
+-36*d**2
+Let a(q) = -160633*q. Let p(n) = 72*n**2. What is p(a(d))?
+1857813169608*d**2
+Let p(m) = 8123275*m. Let i(h) = h**2. What is p(i(k))?
+8123275*k**2
+Let p(h) = -52*h. Suppose 8*s = -9 + 1. Let g(n) = n + 1. Let m(q) = -1. Let u(l) = s*m(l) - g(l). Determine p(u(w)).
+52*w
+Let c(s) be the first derivative of 4*s**3/3 + 1026. Let y(q) = 4*q**2 - 1. Determine y(c(i)).
+64*i**4 - 1
+Let x(n) = -2*n. Let p(f) be the third derivative of 1403*f**4/24 - 7*f**2 + 34*f. What is p(x(u))?
+-2806*u
+Let p(t) be the first derivative of -8*t**3 - 1. Let h(k) = -1642*k + 512*k + 512*k + 619*k. Calculate p(h(j)).
+-24*j**2
+Let f be (15/9 - 1)*-3. Let t be 1/3*f/2*-18. Let b(m) = 13*m**2 - t*m**2 - 6*m**2. Let k(r) = -13*r**2. What is b(k(o))?
+169*o**4
+Let z(f) = 5*f**2. Let m(t) = 5*t - 4. Let b = 7 + -11. Let j(o) = 8*o + 13*o - 7 - 11*o. Let w(l) = b*j(l) + 7*m(l). Calculate w(z(k)).
+-25*k**2
+Let f(p) be the second derivative of -29*p**4/12 + p**3/3 - 19*p + 1. Let a(c) = -2*c**2. Calculate f(a(b)).
+-116*b**4 - 4*b**2

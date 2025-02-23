@@ -1,0 +1,20 @@
+Let y(f) = 23*f**2 - 28*f - 4. Let n(r) = 572*r**2 - 693*r - 99. Let h(s) = 4*n(s) - 99*y(s). Let l(o) = -22*o - 4. Calculate h(l(w)).
+5324*w**2 + 1936*w + 176
+Let b(l) = 6*l. Let j(k) = 5 - 4*k. Give b(j(i)).
+30 - 24*i
+Let q(m) = 4 - 6*m. Let n(i) = 3 - 5*i. Let j(x) = -4*n(x) + 3*q(x). Let w(g) = 33*g. Calculate w(j(l)).
+66*l
+Let j = 1 - 2. Let t be j + (2 - 5/(-1)). Let l(q) = 4*q**2 + 6. Let o(n) = -3*n**2 - 5. Let u(y) = t*o(y) + 5*l(y). Let v(c) = 2*c**2. Give u(v(m)).
+8*m**4
+Let c(q) = 6080*q + 6079*q - 12177*q. Let r(w) = -311*w. Give r(c(b)).
+5598*b
+Let h(q) = 8*q**2. Let d(v) be the third derivative of 3*v**2 + 0*v + 0*v**3 + 0 + 1/24*v**4. Give d(h(x)).
+8*x**2
+Let i(f) = -2*f. Let r(n) be the second derivative of -n**5/60 - 6*n**2 - n. Let y(v) be the first derivative of r(v). What is i(y(l))?
+2*l**2
+Let s(u) = -5*u. Let n = -17 + 20. Suppose -n*o = -4*g - 20, 2*g + 0*g = -3*o + 8. Let v(q) = q**2 + o*q**2 - 2*q**2. Calculate v(s(i)).
+75*i**2
+Let f(m) = -693*m. Let a(i) = i - 25. What is f(a(y))?
+17325 - 693*y
+Let f(i) = 2*i. Suppose 3*m + 32 = 7*m. Let t(a) = -34 + 34 - m*a. Let n(y) = -y. Let c(v) = -3*n(v) + t(v). Determine c(f(u)).
+-10*u

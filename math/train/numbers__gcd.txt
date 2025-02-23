@@ -1,0 +1,20 @@
+Calculate the highest common factor of 25 and 425.
+25
+What is the highest common divisor of 361 and 304?
+19
+What is the highest common factor of 2900 and 33524?
+116
+Calculate the greatest common divisor of 6142725 and 19665.
+1035
+What is the highest common factor of 5 and 131135?
+5
+Calculate the highest common divisor of 63420544 and 114576.
+5456
+Calculate the highest common factor of 187 and 68.
+17
+Calculate the highest common factor of 8657 and 5599.
+11
+Calculate the highest common factor of 33760 and 10.
+10
+What is the highest common divisor of 30 and 397155?
+15

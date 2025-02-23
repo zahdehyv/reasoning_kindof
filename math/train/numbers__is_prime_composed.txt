@@ -1,0 +1,20 @@
+Let n(t) = t**2 + 11*t - 3. Let w be n(-12). Is 9/6*78/w prime?
+True
+Let w = -56 + 447. Is w composite?
+True
+Suppose 22 = -6*p - 5*p. Let m(s) = -220*s**3 - s**2 - 5*s - 7. Is m(p) a composite number?
+False
+Suppose 55983 = 22*k - 9731. Is k a prime number?
+False
+Let v = 278 - 164. Let l be (-1)/6 - (-1259035)/v. Is 4/18 - l/(-36) prime?
+True
+Let u(q) = 219*q - 2. Let y(c) = 1105 - 120887*c. Let r(i) = -1105*u(i) - 2*y(i). Is r(-1) a composite number?
+True
+Suppose 2*q = 273 + 91. Suppose 0 = 4*l - 2638 + q. Is l a prime number?
+False
+Is (-121)/(3/(-3 + 0)) a composite number?
+True
+Suppose 3*y - 3*r = -y + 1, 5*r = 3*y + 13. Suppose -3*i = -y*v - 386, -3*v - 524 = -4*i - 0*v. Suppose 5*g = 4*g + i. Is g a composite number?
+True
+Let k(i) = -i**3 + 9*i**2 + 3*i + 10. Let a(m) = 3*m - 9. Let h(d) = -d**2 - 5*d + 2. Let n be h(-4). Let v be a(n). Is k(v) composite?
+False

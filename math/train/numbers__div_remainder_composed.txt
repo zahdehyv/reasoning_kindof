@@ -1,0 +1,20 @@
+Suppose -k + 0*s - 4*s + 58 = 0, 0 = k - s - 33. Calculate the remainder when 65 is divided by k.
+27
+Let d(i) = 2*i**3 + 19*i**2 + 2*i. Let x be d(-9). Let o = -40 + x. Suppose -3*c = -10 - o. What is the remainder when c is divided by 7?
+4
+Suppose -2*i + 126 = i. Let b = -12 + 23. Calculate the remainder when i is divided by b.
+9
+Let u(p) = 17*p**2 + p. Let r be u(2). Let s = r - 6. Suppose 5*g = g + s. What is the remainder when 30 is divided by g?
+14
+Suppose 0 = -49*t + 7528 - 3167. Calculate the remainder when 264 is divided by t.
+86
+Suppose 20 = 8*t - 6*t. What is the remainder when t is divided by 3?
+1
+Calculate the remainder when 30 is divided by (-4)/14 + 464/56.
+6
+Suppose k - 90 = -4*k. What is the remainder when k is divided by 5?
+3
+Let c = 553 + -507. What is the remainder when 51 is divided by c?
+5
+Let z = 4 - 6. Let a(y) = -24*y - 2. Let g = 2 - -14. What is the remainder when a(z) is divided by g?
+14

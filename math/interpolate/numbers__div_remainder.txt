@@ -1,0 +1,20 @@
+Calculate the remainder when 284895 is divided by 140.
+135
+Calculate the remainder when 13187 is divided by 6389.
+409
+What is the remainder when 810152 is divided by 54010?
+2
+Calculate the remainder when 3035250 is divided by 101.
+99
+What is the remainder when 13964 is divided by 994?
+48
+What is the remainder when 306465 is divided by 4198?
+11
+Calculate the remainder when 1376354 is divided by 3086.
+3084
+Calculate the remainder when 1396529 is divided by 58.
+5
+What is the remainder when 593795 is divided by 58?
+49
+What is the remainder when 3764875 is divided by 83?
+78

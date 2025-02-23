@@ -1,0 +1,20 @@
+Let l(d) = -d**3 - 6*d**2 - 3*d + 2. Let a be l(-5). Let r(s) = 4*s + 1. Let x(h) = -5*h. Let y(n) = -4*r(n) - 3*x(n). What is the units digit of y(a)?
+4
+Suppose 2*p = -5*j + 3332, j = -2*p + 3*p - 1652. What is the tens digit of p?
+5
+Let l be (0 + -1)*-13 + 0 + -3. Suppose -2*i = -2*f + 14, 4*f - 5*i + 0 - 31 = 0. Suppose -t = 3*m, -f*m + 2*t = -0*m - l. What is the units digit of m?
+1
+Suppose -5*o - 3*n + 1178 = 0, 6*n = -4*o + 10*n + 936. What is the tens digit of o?
+3
+Let d(r) = -r**3 + 3*r**2 + 5*r. Let f be d(4). Let j = 6 - f. What is the units digit of j?
+2
+Suppose 4*k - 12 = -1984. Let n = k - -824. What is the units digit of n?
+1
+What is the units digit of (2/4)/(3/234)?
+9
+Let n(p) = 4*p**2 + 0*p**2 + 4 - 8 - 5*p**2 + 10*p. What is the units digit of n(6)?
+0
+Let q(s) = 3*s - 4. Let g be q(8). Suppose 3*y - y = -g. Let d(w) = -w**2 - 9*w + 13. What is the units digit of d(y)?
+3
+What is the tens digit of (-77 + 3/3)/(-2)?
+3

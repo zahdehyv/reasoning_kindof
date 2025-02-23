@@ -1,0 +1,20 @@
+Let d(t) = 2*t**2 - 30*t - 29. Let g be d(16). Put g, 0, 2 in descending order.
+g, 2, 0
+Let w = 0.6194 - -3.4176. Let f = w + -0.037. Let y = -0.8 + 0.92. Put f, y, 1 in ascending order.
+y, 1, f
+Let s = -6670 + 6667. Let r = 52 - 48. Put -1, -11, r, s in descending order.
+r, -1, s, -11
+Let m(g) = -g**2 - 1. Let i be m(-2). Let b be (-6)/30*(i - 0). Suppose 5*x = 15, -5*r - x + 2*x = 18. Put r, 3, b in increasing order.
+r, b, 3
+Let s(i) = -i - 13. Let m be s(-9). Let b = m + -1. Suppose 4*k - 2*d = 10, 3*k = 4*k + d - 1. Put k, 0, b in descending order.
+k, 0, b
+Let m = -4 + 1. Let f = -38.68 + 34.68. Put f, m, 2/5 in descending order.
+2/5, m, f
+Let b = -424 + 433. Let v(k) = 66 - 8*k. Let c be v(b). Sort c, 5, -0.3, -3 in descending order.
+5, -0.3, -3, c
+Suppose 4*f - 37 = -5*i, -5*f - 6 - 4 = -5*i. Suppose -i*g + 4 = -11. Let b be 2/g - (-2)/(-9). Sort -1/9, b, 1/9.
+-1/9, 1/9, b
+Suppose 2*a - 3*a = -2, 5*p - 2*a - 21 = 0. Suppose r + p = 3. Put 1, -4, r in ascending order.
+-4, r, 1
+Let y(l) = 13*l. Let n be y(1). Let u = -21250 - -21248. Sort -4, n, u in ascending order.
+-4, u, n

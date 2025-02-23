@@ -1,0 +1,20 @@
+Five letters picked without replacement from okcjcncjnkncnccom. Give prob of sequence jomcc.
+1/6188
+Five letters picked without replacement from {g: 3, k: 4, p: 1, t: 1, w: 2, c: 6}. What is prob of sequence kcgwk?
+9/15470
+What is prob of sequence kkkkk when five letters picked without replacement from {k: 8}?
+1
+Calculate prob of sequence vkbvr when five letters picked without replacement from vkrvvkbr.
+1/280
+Five letters picked without replacement from {t: 3, j: 1, u: 9, p: 6}. What is prob of sequence tpptu?
+3/2584
+Five letters picked without replacement from frwffxfsffexrxxxfe. What is prob of sequence xsewf?
+1/14688
+Five letters picked without replacement from ppppp. Give prob of sequence ppppp.
+1
+Calculate prob of sequence mjnjn when five letters picked without replacement from nnnjnnnjmnnnnnnmjnjj.
+13/3876
+Five letters picked without replacement from {t: 5, f: 2, n: 11}. Give prob of sequence ftnnf.
+55/51408
+Calculate prob of sequence nkkrk when five letters picked without replacement from nwnwkrkwkwkrnwkk.
+1/728

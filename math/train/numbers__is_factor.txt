@@ -1,0 +1,20 @@
+Does 39 divide 84006?
+True
+Is 3065850 a multiple of 50?
+True
+Does 239 divide 15968?
+False
+Is 23 a factor of 173811?
+True
+Is 294323 a multiple of 6?
+False
+Is 1187 a factor of 112004555?
+False
+Is 14 a factor of 3603922?
+True
+Is 97 a factor of 21959998?
+False
+Is 21769 a multiple of 77?
+False
+Does 88 divide 509424?
+False

@@ -1,0 +1,20 @@
+-22 (base 13) to base 11
+-26
+What is 20002110 (base 3) in base 6?
+32320
+Convert 3441102 (base 5) to base 12.
+2ba8b
+10378 (base 10) to base 6
+120014
+What is 33333322 (base 4) in base 10?
+65530
+What is -1201210012 (base 3) in base 13?
+-126a7
+What is 1 (base 2) in base 8?
+1
+-610310 (base 8) to base 13
+-705a2
+Convert -4321455 (base 6) to base 7.
+-1544546
+Convert 727098 (base 12) to base 7.
+21155501

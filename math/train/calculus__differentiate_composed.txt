@@ -1,0 +1,20 @@
+Let a be (1 - 4)*(-24)/18. Find the second derivative of -2*d - 18*d**3 - a*d + 11*d**3 wrt d.
+-42*d
+Suppose 23*y = 24*y - 31. What is the second derivative of y*r - 26*r - 9*r**3 - 19*r wrt r?
+-54*r
+Let c(w) be the second derivative of w**7/120 - w**5/20 - 5*w**3/6 - 11*w. Let b(v) be the second derivative of c(v). Find the second derivative of b(r) wrt r.
+42*r
+Suppose -5*k + 25 = 0, 8*k - 3*k - 620 = -5*d. What is the third derivative of 55*x**3 + 59*x**3 - d*x**3 + 11*x**2 wrt x?
+-30
+Find the first derivative of -22*b**4 - 30 + 55 - 26 wrt b.
+-88*b**3
+Find the second derivative of -11*n**2 + 5 - 2 + 11*n - 4 wrt n.
+-22
+Let l(f) be the first derivative of -1922*f**3/3 - 2325*f - 748. What is the derivative of l(m) wrt m?
+-3844*m
+Find the third derivative of -107*o**2 - 2*o + 19*o**4 + 67*o**2 + 82*o**4 + 3*o wrt o.
+2424*o
+Let l(v) be the second derivative of 8*v**3 + 1/2*v**2 + 166*v + 71/12*v**4 + 0. Find the second derivative of l(h) wrt h.
+142
+Find the second derivative of 597*b**4 + 125*b**4 + 9*b**4 - 341*b - 868*b - 14*b wrt b.
+8772*b**2

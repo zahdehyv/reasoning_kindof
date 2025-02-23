@@ -1,0 +1,20 @@
+Suppose 7*z - 13*z = -42. Let k(d) = 2*d**2 - 3*d + 3. Let g be k(2). Suppose 2*s - g = z. Solve -2*v = v - s for v.
+2
+Let u(d) = d**3 + 30*d**2 + 125*d + 2. Let h be u(-25). Solve -h*p = -6*p - 0*p for p.
+0
+Let f be 0/3*(-1)/(-2). Suppose -119*l = 4*i - 116*l - 5, 0 = 2*i - 5*l - 9. Solve -i*r = -f*r - 6 for r.
+3
+Suppose 0 = 18*v - 241 + 7. Solve v*r + 7*r = -80 for r.
+-4
+Suppose 42 = 5*u + 3*n, -12 = -11*n + 8*n. Solve 0 = -u*q - 15 - 15 for q.
+-5
+Suppose -g = -5*b + 67, -b + 5*g = -5 + 6. Solve -6*m = -b*m + 32 for m.
+4
+Let q(v) = -v**3 + 8*v**2 - 8*v - 2. Let j be q(6). Let r be (-4 + j)*3/9. Solve 0 = -r*h + h + 5 for h.
+1
+Let u(o) = -4*o - 3. Let m be u(4). Let z = -35 - m. Let f = -16 - z. Solve -4*b + 0*b = f for b.
+0
+Let m(v) = -v**3 + 14*v**2 + 16*v - 8. Let k be m(15). Suppose 165 = 5*p - 16*p. Let t be (-4)/10 + ((-42)/p)/k. Solve t = f + 2 + 1 for f.
+-3
+Suppose -p + 16 = 2*g, 23*p + 20 = 2*g + 25*p. Solve -494*v + 497*v = g for v.
+2

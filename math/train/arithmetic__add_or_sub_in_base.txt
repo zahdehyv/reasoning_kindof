@@ -1,0 +1,20 @@
+In base 10, what is 4344791 - -1?
+4344792
+In base 11, what is 124 - -8588?
+8701
+In base 5, what is 300 + -10?
+240
+In base 16, what is 168b9 - -15e3?
+17e9c
+In base 3, what is -20212210 - 101100?
+-21021010
+In base 7, what is -3 - -2056?
+2053
+In base 7, what is -2 - -261?
+256
+In base 4, what is 212 + 122?
+1000
+In base 13, what is 863 - 15c?
+704
+In base 14, what is -3b4 + 5?
+-3ad

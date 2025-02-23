@@ -1,0 +1,20 @@
+Let b(m) = m**2 - 6*m - 6. Let a be ((-24)/(-10))/(-12 + 744/60). Determine b(a).
+-6
+Let r(b) = -b - 2. Let d be r(-1). Let s be 0/(-4) + (-1 - d). Let m(h) = -h**2 - h + 7. Give m(s).
+7
+Let r(q) be the second derivative of -q**6/120 - q**5/15 - q**4/12 - q**3/6 - 5*q**2/2 - 5*q. Let y(v) be the first derivative of r(v). Determine y(-4).
+7
+Let p(o) = o + 4. Let w(j) = 5*j**3 - j**2 - j + 1. Let b = -9 + 10. Let k be w(b). Suppose 0*s - 4*s = 2*a - 12, -k*s = -4*a - 36. Determine p(s).
+9
+Let i(g) = -21*g - 11. Let m(t) = -33*t - 16. Let u(n) = -8*i(n) + 5*m(n). Calculate u(-9).
+-19
+Let z = -9 + 11. Let h(f) be the first derivative of -1/2*f**2 - z + 9*f. Calculate h(5).
+4
+Let p = -171 - -173. Let k(q) = 83*q**2 - 84*q**p + 0*q - 6*q - 2. Determine k(-3).
+7
+Let b(f) = f**3 + 1716*f**2 - f - 1 - 1716*f**2. Let r(l) = 12*l**3 + l**2 - 2*l - 3. Let c(q) = -4*b(q) + r(q). Give c(-1).
+-8
+Suppose -2 + 18 = 2*r. Suppose 2*s - 2 = 2*c + r, -5*c - 4*s + 2 = 0. Let h(q) = 2*q**2 + q - 3. Give h(c).
+3
+Let k(g) = 39 - 2*g. Let p = 73 + -67. Let h(x) = 3*x + 1. Let y be h(p). Let t be k(y). Let i(o) = 5*o**3 + 2*o - 1. Determine i(t).
+6

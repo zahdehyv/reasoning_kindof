@@ -1,0 +1,20 @@
+Let j = -1065402/868373 + 1110/887. What is the common denominator of -41/445 and j?
+4895
+What is the common denominator of -151/12 and ((-9)/(-192))/(6/4)?
+96
+Let o be (-6)/15*25*-1. Suppose 4*m - 10 = -m, 3*m = 2*g - 70. What is the lowest common multiple of 4/20 + g/o and 10?
+20
+Let a = -85853 + 85865. Let p(q) = -3*q**3 + q**2 + 2. What is the least common multiple of p(-2) and a?
+60
+Suppose -o + z = 15, -4*o + 5*z - 62 = -0*z. What is the lowest common multiple of 112 and 1/(((-13)/8)/o)?
+112
+Suppose 210 = 4*c - 5*a, 2*c - 13*a + 12*a - 108 = 0. Calculate the least common multiple of c and 14.
+770
+Suppose 3*u + 4*o - 264 = 0, -4*u + 0*u + 3*o = -377. Calculate the least common multiple of u and 14.
+644
+Suppose -319 - 661 = -5*m. Suppose 3*x + 0*t = 5*t + m, t + 312 = 5*x. What is the lowest common multiple of x and 4?
+124
+Suppose 0 = 4*h - 5*x - 251, -27*x = -h - 24*x + 68. Let f = 129 - h. Calculate the lowest common multiple of 217 and f.
+2170
+Let s = -87/1402 - 1056059/5608. Let b = s - -181. Calculate the common denominator of 34 and b.
+8

@@ -1,0 +1,20 @@
+Convert -9e16 (base 15) to base 3.
+-1201000110
+Convert -1ebfd (base 16) to base 13.
+-45435
+Convert -144544 (base 10) to base 14.
+-3a968
+Convert 100111110100101110 (base 2) to base 10.
+163118
+Convert -10000110010010011 (base 2) to base 6.
+-1250151
+Convert -12200212220 (base 3) to base 11.
+-77314
+44443 (base 12) to base 2
+10110000101110011
+-168954 (base 10) to base 4
+-221033322
+-477145 (base 8) to base 3
+-22022011221
+-122002122 (base 4) to base 10
+-106650

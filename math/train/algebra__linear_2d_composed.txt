@@ -1,0 +1,20 @@
+Suppose -90*z + 2*m - 11 = -91*z, m - 19 = -2*z. Solve 4*p - 3*p + z = 3*v, -2*v + 2*p = -2 for v.
+4
+Let t = -423 - -463. Suppose t + 0 = 2*h. Solve 21 = f - 4*n - 0*n, 0 = -5*n - h for f.
+5
+Let q(c) = -c**2 + 8*c + 1. Let v be q(8). Let x(i) = i**2 + 3 - v + 2*i - 4*i. Let o be x(3). Solve -o*l = -2*a - 4*l, -3*l - 4 = -4*a for a.
+-2
+Let s = 191 + -214. Let w = s + 28. Solve -h - 17 = -2*u + 4*h, 14 = w*u - 3*h for u.
+1
+Let h = -39 + 42. Solve 4*f + 2 = -h*y, -9 + 3 = 3*f for y.
+2
+Let u(l) = 2*l + 30. Let m be u(-13). Let c = 5 - 0. Solve 2*a + c + 4 = n, m*a + 19 = n for n.
+-1
+Suppose -3*x = 5 - 11. Let t = x + 0. Let h = 4 + -2. Solve 5*j = -0*j + q + 5, h*q = -2*j + t for j.
+1
+Let y = 886 - 882. Solve 0 = -5*o - y*n + n - 20, -5*o - n - 20 = 0 for o.
+-4
+Suppose 5*h - 10 = 0, 0 = -17*y + 19*y + 5*h + 170. Let m = y + 94. Solve 0 = m*v - 2*w + 8, -5*v + 2*w = 12 - 0 for v.
+-4
+Let n = 2986 - 2986. Solve 5*j - 4*f + 16 = n, -2*j + 3 = -5*f + 6 for j.
+-4

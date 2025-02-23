@@ -1,0 +1,20 @@
+Let r = 263438.469 + 534.531. Let t = 263706.159 - r. Let q = t - -267. What is q rounded to two dps?
+0.16
+Let h = -10.55 + 516.55. Let i = -499.22 + h. Round i to 1 dp.
+6.8
+Let l = 16 - 4. Suppose l*w = 10*w. Suppose -5*u - 714145 + 214145 = w. What is u rounded to the nearest 100000?
+-100000
+Suppose -162 = -8*c + 30. Let j be 5/(-1)*c/(-40). Suppose 3*r - 12 = 6*r, -j*s - r - 6484 = 0. Round s to the nearest one hundred.
+-2200
+Let d = -44 - -43.936. What is d rounded to two decimal places?
+-0.06
+Let q = 743 - 52. Let t = -707.15 + q. Let o = t + 17. Round o to one decimal place.
+0.9
+Let w be 15/10*12/9. Suppose 0 = 3*d - w*d - 3. Suppose r = 2*r - d*u - 187003, -r + 186996 = 4*u. Round r to the nearest ten thousand.
+190000
+Let k(d) = 521*d + 3. Let a be k(2). Let c = -735 + a. Suppose 0 = x - 5*z + c, -3*z = x - 2*z + 334. What is x rounded to the nearest one hundred?
+-300
+Let v = 1.4 - 2.6. Let y = -2.4 + v. Round y to the nearest integer.
+-4
+Let m = -1.57 - -8.67. Round m to zero decimal places.
+7

@@ -1,0 +1,20 @@
+What is the cube root of 5639537 to the nearest integer?
+178
+What is the cube root of 94513372 to the nearest integer?
+456
+What is the square root of 24576848 to the nearest integer?
+4958
+What is the square root of 8956926 to the nearest integer?
+2993
+What is the eighth root of 98164093 to the nearest integer?
+10
+What is the square root of 62394973 to the nearest integer?
+7899
+What is 66966915 to the power of 1/2, to the nearest integer?
+8183
+What is 45735031 to the power of 1/2, to the nearest integer?
+6763
+What is the square root of 44904930 to the nearest integer?
+6701
+What is 77713215 to the power of 1/2, to the nearest integer?
+8816

@@ -1,0 +1,20 @@
+Let f = -154 + 2620/17. Let q = -28.1 + 28. Which is the nearest to q?  (a) f  (b) 5  (c) -7
+a
+Let c = 17.6 - 0.6. Let j = c + -13. What is the closest to 0.2 in -2, j, -0.2?
+-0.2
+Let h = 0.17925 + 3.82075. Which is the closest to -3?  (a) 1/5  (b) h  (c) 0.147  (d) -0.5
+d
+Let i(x) = -3*x - 24. Suppose 2*r - 8 = -62. Let m = -36 - r. Let f be i(m). Which is the nearest to 0.1?  (a) 5  (b) 4  (c) f
+c
+Let m = 98 - 98.041. Let q = m - -0.541. What is the nearest to -1 in -0.1, 0.2, q?
+-0.1
+Suppose 0 = 3*v + v. Suppose v = -2*h - 2. Let p = 2072 - 2075. Which is the closest to 1?  (a) h  (b) 0.4  (c) p
+b
+Let y = -649 - -1261/2. Let b = y + 18. What is the nearest to -0.3 in -1, b, 3?
+b
+Let j = -11698 + 11702. Let c = 1 - 1. What is the nearest to c in -2, 2/3, j?
+2/3
+Let m be (-128)/((-28)/(-49)*7/(-2)). Let u = 16 - 18. What is the nearest to -1/3 in -4, 1/5, m, u?
+1/5
+Let o = 807.1 + -805.1. What is the closest to 2/3 in o, 181, -2, -1?
+o

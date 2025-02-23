@@ -1,0 +1,20 @@
+Let i = -17059/10 - -1694. What is the common denominator of i and -1 + 3 + ((-189)/75 - -1)?
+50
+Let p be ((-70)/100 - 1/(-5))*2. Let y = p + 19. Calculate the least common multiple of 196 and y.
+1764
+What is the common denominator of 145/78 and ((-10)/15 + (-257)/(-390))/(10/590)?
+390
+Suppose 0 = 7*a - 5*i - 379, 170 = 2*a + 5*i + 36. Calculate the least common multiple of a and 138.
+2622
+Suppose 4*i + 103 + 117 = 0. Suppose z = -4*b + 15, -2*b + 15 = -3*z + 4. Find the common denominator of -33/4 and (2 - i/(-25))*(-450)/b.
+4
+Let r = -817/21 - -353/9. What is the common denominator of -139/78 and r?
+1638
+Suppose -3*a = -4*p - 7656, -5*p + 12731 = 5*a - 2*p. Let m = -17891/7 + a. Calculate the common denominator of m and -1 + (-68)/10 + 2.
+35
+Let g = 4/173 + 2929/519. Let q = -473795029/110 - -4307287. Let t = -532/11 + q. Find the common denominator of t and g.
+30
+Suppose -39*u + 19*u + 5400 = 0. What is the lowest common multiple of u and 702?
+3510
+Let t(c) = 49*c - 6. Let v be t(4). Calculate the common denominator of -1/6 and 2/(-20)*v/(-20).
+60

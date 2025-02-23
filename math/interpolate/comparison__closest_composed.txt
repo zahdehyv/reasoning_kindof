@@ -1,0 +1,20 @@
+Let q be (-8 - 304/(-35)) + 2/(-7). What is the closest to q in 0, 0.06, 0.2?
+0.2
+Let g = -7359/32 - -230. Let w = 69/160 - g. What is the closest to -1 in 6, -0.4, w?
+-0.4
+Let q = 16.3 - 16. Let u = 1423 - 2849/2. What is the nearest to 2/3 in 2, u, q?
+q
+Suppose 3*r + 8 = 2*u, 5*u - 1 - 9 = 5*r. Let y be (-7*40/(-350))/(r/10). Which is the nearest to -2?  (a) -0.01  (b) y  (c) 5/4
+b
+Let w = -3 + 2. Let f = -315.5 + 258. Let b = 58 + f. What is the nearest to w in b, -3/5, 3?
+-3/5
+Let b = -1075 - -1071. What is the nearest to b in 2/19, -1, 2, 0.8?
+-1
+Let l be (-2)/5 + (-8)/(-70). Suppose 5*j + 238 - 228 = -5*f, -4*f + 2*j = 2. What is the closest to l in 1/7, -6, f?
+1/7
+Let y = -7.75 - -2.75. What is the closest to -0.3 in -3, 0.12, y, -0.4?
+-0.4
+Let w(v) = -4*v**2 - 135*v + 39. Let d be w(-34). Which is the nearest to 0.04?  (a) 3  (b) d  (c) -0.5
+c
+Let t be 1*6/(-4) - (-45)/6. Let d be (8/16)/(t/9). Let b be ((-3)/4)/(1 + 2). What is the closest to d in b, 3, -0.4?
+b

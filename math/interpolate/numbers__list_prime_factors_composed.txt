@@ -1,0 +1,20 @@
+Suppose q - 42 = 2*q + 4*v, 0 = -5*q - 5*v - 195. Let n be q*(2/3 + 7/(-6)). Suppose 4*z + 71 + n = 3*w, 3*z - 30 = -w. What are the prime factors of w?
+2, 3, 5
+Let a = -688 + 1474. What are the prime factors of a?
+2, 3, 131
+Suppose -1631*n + 1635*n = -2*i + 39164, 0 = 2*n - 3*i - 19590. List the prime factors of n.
+2, 3, 17
+Suppose -7*i + 5*i + 1470 = 0. Suppose i = -v + 6*v. Let p = -50 + v. List the prime factors of p.
+97
+Suppose 2*k = 2*a + 34 + 8, -2*k - 58 = 2*a. Let c(b) = -b**3 - 27*b**2 - 59*b - 60. What are the prime factors of c(a)?
+3, 5, 11
+Suppose 1 = q - 16. Let b(o) = 29 - 7*o. Let t be b(q). What are the prime factors of (t/21)/(1/(-7))?
+2, 3, 5
+Let r(b) = -b**3 - 12*b**2 + 25*b + 622. List the prime factors of r(-16).
+2, 7, 89
+Let a(j) = -6 + 0*j + 6*j + 4. What are the prime factors of a(15)?
+2, 11
+Let a(v) = -v - 18 + 2*v + 63 + 0*v. List the prime factors of a(22).
+67
+Suppose 32*o - o = 1178. Let y(p) = p + 7. Let x be y(-4). Suppose 5*k - 3*q - 79 = -13, -q = -x*k + o. List the prime factors of k.
+2, 3

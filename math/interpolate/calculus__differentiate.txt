@@ -1,0 +1,20 @@
+What is the second derivative of -8*r**5 - 37858*r**2 + 9462354*r wrt r?
+-160*r**3 - 75716
+What is the third derivative of -458*d**6 - d**4 - 705*d**3 + 10625842*d**2?
+-54960*d**3 - 24*d - 4230
+What is the first derivative of -9668824*g**3 - 3508781 wrt g?
+-29006472*g**2
+What is the third derivative of -15361989*x**4 + x**2 + 47*x - 2669 wrt x?
+-368687736*x
+Find the second derivative of -504468*d**2 - 379223*d - 16 wrt d.
+-1008936
+Find the first derivative of 1197876*l**3*w - 4*l**3 + 2582*w - 443 wrt l.
+3593628*l**2*w - 12*l**2
+Find the third derivative of 6266*g*z**3 + 7243*g*z**2 - 38*z**3 + 109*z**2 wrt z.
+37596*g - 228
+Find the second derivative of -15476382*g*w**2 - 503417*g + 2*w wrt w.
+-30952764*g
+What is the third derivative of 10645570*t**4 + t**2 + 8171*t + 21 wrt t?
+255493680*t
+What is the second derivative of 87*o**5 + 2*o**4 - 4033*o**2 + 423*o - 2889?
+1740*o**3 + 24*o**2 - 8066

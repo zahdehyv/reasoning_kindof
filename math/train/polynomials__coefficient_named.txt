@@ -1,0 +1,20 @@
+Rearrange 28*g - 88*g + 5*g + 12*g to the form j + h*g and give j.
+0
+Express 12*o + 5*o - 6*o as x*o + w and give w.
+0
+Express 2*w**4 - 686 + 7*w**2 - w + 686 - w**3 in the form b*w**3 + a*w**4 + x*w + y + l*w**2 and give a.
+2
+Rearrange 27*d**2 - 5 - 2 + 7 to k*d**2 + m + c*d and give k.
+27
+Express (-2*u + 3*u + 5*u)*(25 + 44 - 34)*(1 - 1 + 2*u) as g*u + q*u**2 + b and give q.
+420
+Rearrange 66*h - 132*h - 183*h to the form f + a*h and give a.
+-249
+Rearrange -73*b**3 - 13*b**4 + 11*b**4 + 2*b - 9879 + b**2 + 9880 to the form g*b + w + r*b**4 + a*b**3 + t*b**2 and give w.
+1
+Rearrange 8 - 4 - 2*k**3 + 18 to c + r*k**3 + t*k + i*k**2 and give r.
+-2
+Express 599785*u - 1173*u**2 - 299893*u + 4 - 299892*u in the form k + b*u + y*u**2 and give k.
+4
+Rearrange 2 + 20*n**2 - 98*n**3 - 1423*n + 97*n**3 + 1435*n to s*n**2 + v + m*n**3 + t*n and give m.
+-1

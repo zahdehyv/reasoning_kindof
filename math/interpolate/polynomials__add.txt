@@ -1,0 +1,20 @@
+Let h(g) = 61*g**2 + 13*g + 20. Let c(r) = 33*r**2 + 7*r + 11. Let t(s) = 11*c(s) - 6*h(s). Let z(o) = -2*o**2 - o. Determine -3*t(b) + 5*z(b).
+-b**2 - 2*b - 3
+Let k(z) = -3*z - 59. Let l be k(-21). Suppose 2*o - 6*r - 11 = -3*r, -l*o - r - 13 = 0. Let m(t) = -5. Let d(u) = -u - 1. What is o*d(f) + m(f)?
+2*f - 3
+Let w(p) = 3*p - 2. Suppose -9335*f + 2 = -9334*f. Let d(j) be the third derivative of 7/24*j**4 - 5/6*j**3 + 0 + 8*j**f + 0*j. Determine 4*d(x) - 10*w(x).
+-2*x
+Suppose 485 = 35*x + 846 - 431. Let g(l) = 4 - 3*l. Suppose -3*t + t = 0. Let d(h) = 2 + t*h - h + 0*h. Determine x*g(f) - 5*d(f).
+-f - 2
+Let k(i) = 1226*i**2 - 12*i + 6. Let g(a) = 2129562*a**2 - 20842*a + 10421. Give 6*g(n) - 10421*k(n).
+1226*n**2
+Let o(f) = 5 - 7*f. Let w(h) = h - 1. Let d = 198 + -186. Let s be 4/(1 - d/20). Give s*w(b) + 2*o(b).
+-4*b
+Let w(i) = -23*i**3 + i - 7. Let f(t) = -11*t**3 - t - 3. Give 14*f(q) - 6*w(q).
+-16*q**3 - 20*q
+Let q = -4645 - -4641. Let i(j) = 2*j. Let b(v) = -v. Calculate q*b(t) + i(t).
+6*t
+Let x(j) be the first derivative of -j**3/3 + 5*j - 892. Let f(l) = -1. Suppose -3 = 4*q - 35. Suppose 0 = -3*o + q + 7. Calculate o*f(n) + x(n).
+-n**2
+Let n(s) = -26*s**3 + 5*s**2 + 7*s - 9. Let h(r) = 2*r**3 - r**2 - r + 2. Calculate 5*h(m) + n(m).
+-16*m**3 + 2*m + 1

@@ -1,0 +1,20 @@
+Is 59628199 a prime number?
+True
+Is 1532734481 prime?
+True
+Is 9727976153 a composite number?
+True
+Is 471737417 a prime number?
+True
+Is 1844116159 a prime number?
+True
+Is 302457187 a prime number?
+False
+Is 2432608507 a composite number?
+True
+Is 282107767 composite?
+True
+Is 3213089749 composite?
+False
+Is 128245547 a prime number?
+True

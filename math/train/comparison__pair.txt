@@ -1,0 +1,20 @@
+Which is greater: 217377 or 217372?
+217377
+Which is bigger: -152188 or -152189?
+-152188
+Which is smaller: -1 or 33/157544?
+-1
+Which is bigger: 1 or -97?
+1
+Which is smaller: -27134 or -33893?
+-33893
+Which is smaller: 1/2 or 47/3?
+1/2
+Which is smaller: 23/314 or 0?
+0
+Does 1 = 88/125?
+False
+Is -903 greater than -902?
+False
+Do 51 and 54 have different values?
+True

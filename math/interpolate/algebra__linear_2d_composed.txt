@@ -1,0 +1,20 @@
+Let x = -4428 - -4442. Solve a + 5*g - 24 = -a, x = -a + 4*g for a.
+2
+Suppose 424*j - 5022 = 145*j. Suppose 3*o + 0*o - 6 = 0. Solve -2*r + j = 2*k, r + o = k + 1 for k.
+5
+Let d be (-6)/(-36) - (-502)/12. Suppose 32*j - d*j = -20. Solve j = -f, -2*o - o - 4 = -4*f for o.
+-4
+Suppose -3*p - 93 = -0*v - 2*v, -4*p = v - 52. Let r = v - 26. Let k = 28 - r. Solve -5*q - 3*d - 15 = -4*d, -2*d + k = -4*q for q.
+-4
+Suppose -2*a + 5 = -3*a. Let k(w) = w**2 + 3*w - 4. Let t be k(a). Suppose -4*n = j + 3, 29 - 42 = -j + 4*n. Solve 5*q = 3*z + 3, -q + t*q + j*z = -5 for q.
+0
+Let k(w) = -11*w - 9. Let m be k(-1). Suppose 0 = -46*s + 49*s. Solve s = b - 3*b + m, h + 2*b = 3 for h.
+1
+Let l be 1/(3*2/114). Suppose l*b - 20 = 14*b. Suppose -v + 3*o = -11, -3*v + 5 = -o - b. Solve 0 = -3*t + 4*t - 5, -v*p + 4*t - 30 = 0 for p.
+-5
+Let v(p) = p**3 - 17*p**2 - p + 25. Let x be v(17). Let w be 13 - x*(-6)/(-24). Solve -14 = 2*t + 4*m, -4*t + w = -t - 2*m for t.
+1
+Let d = 4151 + -4147. Solve -3*w + 14*z - 1 = 10*z, 1 = 5*w - d*z for w.
+1
+Let k be 76/7 + ((-30)/(-140)*-2)/(-3). Solve -5*m - 2*h = -m - 18, -h = -2*m + k for m.
+5

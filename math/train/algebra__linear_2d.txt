@@ -1,0 +1,20 @@
+Solve 997*l = 5*j + 1000*l - 11, 1 = -5*j + 3*l for j.
+1
+Solve 2*o + 13 = 3*v, 5*v - 18 = 3*o + 2*v for o.
+-5
+Solve 0 = -5*x - 2*b + 27, -123*x + 122*x + 7 = 2*b for x.
+5
+Solve -152*l + 30 = -4*p - 154*l, 2*l = -2 for p.
+-7
+Solve -3*u + 77 - 73 = 4*r, -4*r + u + 4 = 0 for r.
+1
+Solve 2*j = -t + 8767 - 8771, -34 = 2*j + 4*t for j.
+3
+Solve 2*s + 5*f + 34 = 0, 0 = -662*s + 659*s + 4*f - 28 for s.
+-12
+Solve 5*j + a - 1 = 0, 3 - 5 = -4*j - 2*a for j.
+0
+Solve -7 = 2*w + 3*n, 0*w - 2 = -3*w - 2*n for w.
+4
+Solve 109*q - 4*v = 110*q - 35, -22 = -2*q - 2*v for q.
+3

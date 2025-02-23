@@ -1,0 +1,20 @@
+What is the derivative of 1791 + 160*i - 405*i - 125 wrt i?
+-245
+Let i(q) be the first derivative of 269*q**6 + 5*q**2 + 7*q - 1184. Find the second derivative of i(s) wrt s.
+32280*s**3
+Let n(b) = 496 - 694*b. Let c(r) = 353*r - 249. Let s(t) = 7*c(t) + 3*n(t). What is the first derivative of s(a) wrt a?
+389
+Suppose 0 = -5*t - 4*a + 83 - 28, 4*t - 3*a - 75 = 0. Differentiate 16*c**2 + c + t + 22 - 11 wrt c.
+32*c + 1
+Find the third derivative of 24924*k**6 - 77*k**4 + 212*k**2 + 159*k**2 - 24921*k**6 wrt k.
+360*k**3 - 1848*k
+Let l(b) be the first derivative of -95*b**2 + 1069*b + 1340. Differentiate l(m) wrt m.
+-190
+Let k(i) be the first derivative of -164*i**5 + 2*i**3/3 + 613*i**2/2 - 1257. Find the second derivative of k(s) wrt s.
+4 - 9840*s**2
+What is the second derivative of 103*o - 4 - 48*o + 11*o**2 - 2*o**5 - 11*o**2 - 17*o**3 - 49*o wrt o?
+-40*o**3 - 102*o
+Let u(h) be the first derivative of 5*h**5/12 - 49*h**4/24 - 2*h**3 + 38. Let r(n) be the third derivative of u(n). Differentiate r(b) with respect to b.
+50
+Let q(b) = 18*b**3 + b. Suppose -7 = -y - 6. Let r = 6 - y. Let t(u) = -18*u**3. Let d(l) = r*t(l) + 6*q(l). What is the second derivative of d(a) wrt a?
+108*a

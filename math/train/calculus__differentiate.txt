@@ -1,0 +1,20 @@
+What is the derivative of 226*f**3 - 8*f**2 + 10431 wrt f?
+678*f**2 - 16*f
+Find the third derivative of -294681*n**5 + 621*n**2 + 93*n - 1.
+-17680860*n**2
+What is the third derivative of 31641630*t*x**6 - 2*t*x**5 + 91*t*x**2 + 46*t + 193*x**2 + 3*x wrt x?
+3796995600*t*x**3 - 120*t*x**2
+What is the first derivative of -5*g**2 + 34*g - 226?
+34 - 10*g
+What is the third derivative of -1124028*h**3 + h**2 + 1473*h + 288?
+-6744168
+Find the third derivative of 319*t**3*x**3 + 9*t**3*x**2 + 14*t*x**2 wrt x.
+1914*t**3
+Find the second derivative of -g**4 + 11711448*g**3 - 157569565*g.
+-12*g**2 + 70268688*g
+What is the derivative of 1121*s**3 - 149*s - 346300?
+3363*s**2 - 149
+What is the third derivative of 177736*i**4 + 442408*i**2?
+4265664*i
+Differentiate f**2 + 5*f*l + 602*f - 159134*l with respect to f.
+2*f + 5*l + 602

@@ -1,0 +1,20 @@
+Suppose -5*w + 70 = 3*l, 12*w - 5*l - 76 = 9*w. Calculate the remainder when 192 is divided by w.
+5
+Let b(c) = 3*c**2 - c - 3. Let y be (-4796)/(-763) - (9/7 - 1). Calculate the remainder when b(y) is divided by 20.
+19
+Suppose 79*m - 44*m = 140. Suppose q + 84 = 2*q. Suppose 25 = c + 3*z, 4*c - 3*z = z + q. Calculate the remainder when c is divided by m.
+2
+Let i(z) = 5*z - 34. Let v(x) = 32 - 4*x. Let l(w) = 2*i(w) + 3*v(w). Calculate the remainder when l(7) is divided by 4.
+2
+Suppose -k + 11 = 201. Let r = 211 + k. What is the remainder when r is divided by 8?
+5
+Let i(l) = l**3 - 3*l**2 + 2*l - 1. Let y be i(-5). Let j = 219 + y. Suppose 4*m - 5*q + 1 = m, 0 = 3*m - q - 7. Calculate the remainder when j is divided by m.
+2
+Suppose 2*c = 5*f + 48, 60 = -c + 5*c - f. Suppose 5*z - 32 = -g, -z + 3*g = -0*g. What is the remainder when c is divided by z?
+2
+Suppose 0 = -11*u + 9*u - 10, 0 = -5*o - 3*u + 310. Calculate the remainder when o is divided by 22.
+21
+Let t(v) = -399*v - 2077. What is the remainder when t(-6) is divided by 65?
+57
+Let l = -4160 + 4279. What is the remainder when l is divided by 25?
+19

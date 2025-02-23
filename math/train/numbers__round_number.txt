@@ -1,0 +1,20 @@
+Round 0.0034081 to four decimal places.
+0.0034
+What is 0.00009698 rounded to six decimal places?
+0.000097
+What is -145498.9107 rounded to the nearest one thousand?
+-145000
+What is 0.150346 rounded to two dps?
+0.15
+What is 2188170 rounded to the nearest one hundred thousand?
+2200000
+What is 1385440.65 rounded to the nearest one hundred thousand?
+1400000
+Round -663041.021 to the nearest 1000.
+-663000
+Round -0.0000817892 to 6 decimal places.
+-0.000082
+Round 0.000016009987 to six decimal places.
+0.000016
+What is -0.0631 rounded to two dps?
+-0.06

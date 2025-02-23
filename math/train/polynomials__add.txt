@@ -1,0 +1,20 @@
+Let x(g) = 11 - 13*g**2. Let l(t) be the second derivative of -7*t**4/12 + 3*t**2 + t. Let h = 4 + 2. Let k be (-2 + 1)/((-5)/(-55)). Determine h*x(u) + k*l(u).
+-u**2
+Let k(l) = -2*l**3 - 6*l**2 + 8. Let t(q) = -q**3 - 2*q**2 + 3. What is -3*k(i) + 8*t(i)?
+-2*i**3 + 2*i**2
+Let p = -50 - -57. Let k(q) = -q**2 - 2*q - 1. Let c(u) = -2*u**2 - 5*u - 2. Calculate p*k(d) - 3*c(d).
+-d**2 + d - 1
+Let a(w) = -2*w**2 - 3*w. Let d(p) be the third derivative of p**5/20 + 5*p**4/24 - p**2. Let c be (0 - 228)/(-19) - 2. Calculate c*a(k) + 6*d(k).
+-2*k**2
+Let v(w) = -4*w - 2. Let y(x) = -9*x - 5. Let r(l) = 2*l**2 - 3*l - 3. Suppose a + a - 8 = 0. Let t = 7 - a. Let c be r(t). Calculate c*y(i) - 14*v(i).
+2*i - 2
+Let x(y) = -4*y**3 + 2*y**2 - 2*y. Suppose 5 - 11 = 3*w. Let n(p) = 3*p**3 - 3*p**2 + 3*p. Give w*n(l) - 3*x(l).
+6*l**3
+Let i(l) = 270*l**2 - 4*l. Let j(w) = 2*w. Determine 3*i(t) + 6*j(t).
+810*t**2
+Let f(j) = 6*j**3. Let g(a) = 2*a**3 - a**3 + a**3 + 2*a**3. Suppose 0 = 4*k + 5*u - 42, -k + 28 = 3*k - 2*u. Determine k*g(b) - 5*f(b).
+2*b**3
+Let m(p) = 4*p**2 + 9*p - 5. Let o(c) = -c**2 - 5*c - 1. Let k(z) = 8*z**2 + 23*z - 6. Let t(v) = -k(v) - 2*o(v). Determine -8*m(w) - 5*t(w).
+-2*w**2 - 7*w
+Let d(w) = -3. Let m(j) = 1 - j. Let x be m(-4). Let i(q) = q - 6. Suppose -3570 + 3552 = 9*c. Give c*i(p) + x*d(p).
+-2*p - 3

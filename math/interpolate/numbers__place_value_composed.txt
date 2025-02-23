@@ -1,0 +1,20 @@
+Suppose -2*g + 121*k - 117*k = -2476, 3*k = g - 1233. What is the hundreds digit of g?
+2
+Let s = -1657 + 3207. What is the units digit of s/8 - 57/76?
+3
+Suppose 0 = 11*t - 0*t. Suppose -r - r + 4*q = -260, 4*q = t. What is the units digit of r?
+0
+What is the tens digit of (9092/14)/((85/35)/17)?
+4
+Let w(g) = 76*g - 104. What is the hundreds digit of w(14)?
+9
+Suppose -5*q = -d - 14, 0 = d - q + 5*q - 22. Let f(h) = 37*h - 30. What is the hundreds digit of f(d)?
+1
+Suppose -5*m = -5*c - 1420, -2*m = c + 2*m + 274. Let i be (2/3)/(4/c). Let z = i - -117. What is the tens digit of z?
+7
+Let u = -8 - -10. Suppose 0 = h + h - 2*f + 8, h = u*f - 9. What is the tens digit of 2 - -94 - (-1)/h?
+9
+Let c(i) = 33*i - 100. Let n be c(17). Let u = n - 244. What is the tens digit of u?
+1
+What is the thousands digit of 841*(-45)/(5 + -14)?
+4

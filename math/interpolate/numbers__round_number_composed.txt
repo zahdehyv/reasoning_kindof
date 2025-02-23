@@ -1,0 +1,20 @@
+Let j = 2200.46400175 + -2200.4. Let x = j - 0.064. Round x to seven dps.
+0.0000018
+Let n = 8.8729 + -231.8679. Let g = n - -223. What is g rounded to 2 decimal places?
+0.01
+Let v(q) = q**3 + 6*q**2 - 6*q + 9. Let r be v(-7). Suppose 3*m + 26258 - 2107 = -4*t, -4*t - 24154 = r*m. Round t to the nearest 1000.
+-6000
+Let u = -77224187 + 174901423. Suppose 0 = 4*k - 322764 - u. What is k rounded to the nearest 1000000?
+25000000
+Let p = 91.2 - 125. Let n = -2.2 + 43.2. Let c = p + n. Round c to zero decimal places.
+7
+Let x = 8.028 + -0.428. Let l = -36205.4132 - -36213. Let n = l - x. What is n rounded to three dps?
+-0.013
+Let t = -34.379561 - -16.07947. Let c = -14.5 + 32.8. Let j = t + c. What is j rounded to 5 decimal places?
+-0.00009
+Let w = 4203533441.6113 + -4203713437. Let q = w + 179915.38870097. Let k = -80 - q. What is k rounded to seven dps?
+-0.000001
+Suppose u - 1 = -3*a, 2*u - 6*u + 18 = -2*a. Let w be 101/(a + 297/300). What is w rounded to the nearest 1000?
+-10000
+Let p = -296.99 - -302.6. What is p rounded to the nearest integer?
+6

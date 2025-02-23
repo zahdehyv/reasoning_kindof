@@ -1,0 +1,20 @@
+Suppose 0 = 5*v + 25, -4*r = -r - 3*v - 78. Let k = -26 + r. Suppose -3*u = -3*c + 21, 0 = -u - 4*c + 4 + 4. Sort k, 5, -1, u.
+k, u, -1, 5
+Let m be (2/3)/(3/(-216)). Let r = m - -49. Put -4, 2, r in decreasing order.
+2, r, -4
+Let n = 19 - 3. Let v be n/(-9) - -2 - (-220)/(-180). Sort 2, -7, 1, v in descending order.
+2, 1, v, -7
+Suppose -g + 43 - 148 = 20*g. Sort 5, -4, g, -18, 11 in decreasing order.
+11, 5, -4, g, -18
+Let q = -6.5 - 1.7. Let p = q - -3.2. Put 2/17, 0, p in decreasing order.
+2/17, 0, p
+Let x = 0.177 + 1.823. Let p = -19.9 + 20. Sort p, -0.5, x.
+-0.5, p, x
+Let t be -8 - (1 + (-6)/2). Suppose -129*o - 458 + 235 - 422 = 0. Sort o, -2, t.
+t, o, -2
+Let m = -2889 + 2885. Sort m, -10, -1, -5 in increasing order.
+-10, -5, m, -1
+Suppose 7*j + 3*j = -7*j. Put j, -2, 5, -1 in increasing order.
+-2, -1, j, 5
+Let d = -1437 + 1432. Sort 2, -2, 6, d, -3 in decreasing order.
+6, 2, -2, -3, d

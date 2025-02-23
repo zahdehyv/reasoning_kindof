@@ -1,0 +1,20 @@
+Calculate the remainder when 21106 is divided by 91.
+85
+Calculate the remainder when 9688235 is divided by 4843839.
+557
+What is the remainder when 567 is divided by 121?
+83
+Calculate the remainder when 58544 is divided by 17.
+13
+Calculate the remainder when 6129629 is divided by 2569.
+2564
+What is the remainder when 12398512 is divided by 145?
+142
+Calculate the remainder when 69483482 is divided by 1739.
+1737
+Calculate the remainder when 1061402 is divided by 132673.
+18
+What is the remainder when 124 is divided by 46?
+32
+What is the remainder when 586577 is divided by 65174?
+11

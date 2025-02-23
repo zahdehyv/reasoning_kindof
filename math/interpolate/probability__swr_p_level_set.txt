@@ -1,0 +1,20 @@
+Calculate prob of picking 1 m and 2 f when three letters picked without replacement from fwwwmfwmwwwfffwwfwwm.
+3/76
+Three letters picked without replacement from hhhmnhhmrhdch. What is prob of picking 2 h and 1 d?
+21/286
+Calculate prob of picking 1 l and 2 v when three letters picked without replacement from {v: 2, l: 1, g: 3}.
+1/20
+Two letters picked without replacement from {q: 5, x: 4, b: 5, u: 4}. What is prob of picking 2 b?
+10/153
+Three letters picked without replacement from {j: 8, o: 7}. What is prob of picking 3 j?
+8/65
+Calculate prob of picking 1 u and 1 g when two letters picked without replacement from {o: 1, g: 1, c: 7, u: 2}.
+2/55
+What is prob of picking 3 b when three letters picked without replacement from {l: 5, b: 6}?
+4/33
+Two letters picked without replacement from sqeetktqttsyksqey. Give prob of picking 2 t.
+3/68
+What is prob of picking 1 d and 1 q when two letters picked without replacement from {l: 15, q: 2, d: 2}?
+4/171
+Three letters picked without replacement from hhhjhhhhhhhhhh. Give prob of picking 3 h.
+11/14

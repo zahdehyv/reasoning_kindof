@@ -1,0 +1,20 @@
+Solve 336*p - 2745 = -243*p + 5361 for p.
+14
+Solve -1000*y + 1054*y - 81 + 27 = 0 for y.
+1
+Solve -40*d + 91 + 72 + 77 = 0 for d.
+6
+Solve -206*c + 1111 = -166 - 989 for c.
+11
+Solve -1561*j + 4016*j = -1934*j + 416955 for j.
+95
+Solve 13240995 - 13248395 = -185*q for q.
+40
+Solve -18*u - 278*u = -60*u - 1888 for u.
+8
+Solve 4*a + 3 = -13 for a.
+-4
+Solve 7*u + 572 - 628 = 0 for u.
+8
+Solve 55 = -10*w + 15 for w.
+-4

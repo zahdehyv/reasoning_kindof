@@ -1,0 +1,20 @@
+Is 1484 a factor of 21802928?
+True
+Does 11 divide 50202768?
+True
+Does 647 divide 15273123?
+False
+Is 138 a factor of 2318952?
+True
+Is 1503 a factor of 44903835?
+False
+Is 12372421 a multiple of 11?
+False
+Does 11 divide 37025901?
+True
+Is 33502779 a multiple of 764?
+False
+Does 17 divide 27594485?
+True
+Is 3700064 a multiple of 1376?
+True

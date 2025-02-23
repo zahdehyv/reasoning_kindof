@@ -1,0 +1,20 @@
+Suppose -9*s + 36 = -8*s. Is 18 a factor of s?
+True
+Let x(j) be the first derivative of -89*j**2/2 - 3*j - 14. Is x(-2) a multiple of 16?
+False
+Let n be ((-2)/(-6))/((-4)/(-48)). Suppose -b - n*b = -5*a + 10, 2*a - 16 = 5*b. Does 13 divide 0/(-4 - a) - 464/(-4)?
+False
+Suppose 12*m - 16*m - 16 = 0, -m - 180 = -k. Does 33 divide k?
+False
+Let r(n) be the first derivative of n**4/4 + n**3 - n**2/2 - 2*n - 1. Let j be r(-3). Does 14 divide 29/(j/(-2 - -3))?
+False
+Let l = -20 + 3. Let a = 6 - -53. Let k = l + a. Is 12 a factor of k?
+False
+Let h(z) = -z**2 + 9*z + 19. Let b be h(10). Does 5 divide 9 + -7 + 2*b?
+True
+Let o be (-1 + -4)*(2 + 6/(-5)). Does 16 divide (18/12)/(o/(-1408))?
+True
+Suppose 0 = 4*g - 156 + 36. Is 5 a factor of g?
+True
+Suppose c + 2*c - 534 = 0. Is 42 a factor of c?
+False

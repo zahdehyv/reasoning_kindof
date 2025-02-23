@@ -1,0 +1,20 @@
+Two letters picked without replacement from tlnplzw. Give prob of sequence nz.
+1/42
+Two letters picked without replacement from gogyongyyyiyo. Give prob of sequence go.
+3/52
+Four letters picked without replacement from dqqqqqdqqqqqqqqqqqq. Give prob of sequence dqqq.
+5/57
+Two letters picked without replacement from cyyycygyyyyccy. Give prob of sequence gc.
+2/91
+What is prob of sequence gjc when three letters picked without replacement from cjccguuujujgjmjcjj?
+7/612
+Calculate prob of sequence ay when two letters picked without replacement from aayyyyyyyyyyay.
+33/182
+Four letters picked without replacement from {t: 2, b: 1, y: 1, r: 1}. Give prob of sequence ybtr.
+1/60
+Calculate prob of sequence ravb when four letters picked without replacement from arvrebr.
+1/280
+Calculate prob of sequence iiee when four letters picked without replacement from eeiihieihehiiieieei.
+21/646
+What is prob of sequence fif when three letters picked without replacement from ififiiffffiifffi?
+3/20

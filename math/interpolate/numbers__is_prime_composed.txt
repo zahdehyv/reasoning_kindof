@@ -1,0 +1,20 @@
+Let i(o) = 473*o**2 - 3. Suppose 5*u = 4*t - 8, -t + 2 = -3*u - u. Suppose u = -0*v - 5*v - 10. Is i(v) a composite number?
+False
+Let h(b) = b**2 - 10*b - 50. Let i be h(14). Suppose -5*a + 4*f - 5*f = -6818, -2*f = -i. Is a composite?
+True
+Let a = 169 + -163. Let r(m) = 6*m**3 - 8*m**2 - 4*m - 7. Is r(a) composite?
+False
+Let p(v) = -93*v - 5. Let x(g) be the second derivative of -g**4/12 + g**3/6 + 9*g**2/2 + 16*g. Let c be x(4). Is p(c) a composite number?
+True
+Suppose -3 = z - p, p = z + 2*p - 1. Let l(c) be the first derivative of -105*c**4 - c**3/3 + c**2/2 + c - 25. Is l(z) a composite number?
+False
+Let c(s) = 4*s - 18. Let p be c(5). Suppose -q = k + 402 - 1745, k - p*q - 1349 = 0. Is k a prime number?
+False
+Is (378/56 - 20)*-2*2 a composite number?
+False
+Let f = -7601 + 39070. Is f prime?
+True
+Let j = 201 + -192. Is (-108122)/(-18) - (332/(-36) + j) prime?
+True
+Let u(o) = -o**3 - 44*o**2 - 117*o - 579. Is u(-54) composite?
+True

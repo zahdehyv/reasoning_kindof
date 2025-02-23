@@ -1,0 +1,20 @@
+Suppose -576 = -p - 2*c + 501, 5406 = 5*p + 3*c. List the prime factors of p.
+3, 19
+Suppose 0 = t - 5 + 1. Suppose 0 = t*d + 7*w - 4*w - 154, 3*w - 6 = 0. What are the prime factors of d?
+37
+Let m(u) = 19*u**2 + 399*u - 9. What are the prime factors of m(-23)?
+5, 173
+Let s(i) = 24 - i. Let l = 31 + -23. Let v be (l/(-2))/(-2) + 5. What are the prime factors of s(v)?
+17
+Let b(d) = 1 - 3 - 4*d**2 + 7*d - 2. Let s(u) = -8*u**2 + 15*u - 8. Let t(p) = -5*b(p) + 2*s(p). What are the prime factors of t(3)?
+5
+Let x(c) = -c**2 + 9*c. Let b be 16*3*(-3)/(-18). List the prime factors of x(b).
+2
+Suppose 3*s = 2*q + 8*s - 617, 0 = 5*q + 3*s - 1495. List the prime factors of q.
+2, 37
+Let d(w) be the third derivative of -w**6/120 - w**5/12 + 3*w**4/8 + 7*w**3/6 - 3*w**2. Let h be d(-7). Suppose 0 = q + 2*q - h. List the prime factors of q.
+2, 7
+Suppose 4*n + 225 = 3*x, 5*n + 279 = -x + 4*x. Let t = n - -166. Suppose -t = 2*y - 6*y. List the prime factors of y.
+2, 7
+Suppose 5*m + 118*j = 114*j + 10093, 2*j = -6. What are the prime factors of m?
+43, 47

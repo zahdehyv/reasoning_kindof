@@ -1,0 +1,20 @@
+Suppose 0 = -51*d + 394 - 63 + 587. What is the greatest common factor of d and 2304?
+18
+Let a be (30/40*-2)/((-6)/(-856)). Let j = -94 - a. What is the greatest common divisor of 15 and j?
+15
+Let s be 1/2 - (-5)/10. Let f = 1623 + -1615. Calculate the greatest common divisor of f and s.
+1
+Suppose 3*i - 62*o + 61*o = 2702, 3*o = -4*i + 3594. What is the greatest common factor of 100 and i?
+100
+Let u(b) = 5*b**2 + 90*b + 38. Let f be u(-18). Let r = -85 + 275. What is the highest common factor of f and r?
+38
+Suppose -26*j - 783 + 4498 = -6893. What is the greatest common divisor of j and 8?
+8
+Suppose 0 = 3*v - 16*g + 15*g - 128, 3*v + 2*g - 122 = 0. Let z = 10 - 1. Let s be (-6)/9 + 60/z. Calculate the highest common factor of v and s.
+6
+Suppose 3*k - 11 = -t, 4*k + 0*t - 16 = -2*t. Let v be (k/(-6))/((-5)/(-30)) + 51. Calculate the highest common factor of v and 64.
+16
+Let w = -39 - -43. Let u(b) = -20 + 3*b**3 + 50*b + 16*b**2 - w*b**3 - 59*b. Let o be u(15). What is the greatest common divisor of o and 7?
+7
+Let f = 87 + -135. Let r be (-11072)/f - 2/3. Calculate the greatest common divisor of 23 and r.
+23

@@ -1,0 +1,20 @@
+Is 3491 prime?
+True
+Is 18637 prime?
+True
+Is 2119229 a prime number?
+False
+Is 132299 a composite number?
+False
+Is 111860191 composite?
+True
+Is 1486833 a composite number?
+True
+Is 561899 a composite number?
+True
+Is 1088893018 prime?
+False
+Is 463769 a composite number?
+True
+Is 522303 a prime number?
+False

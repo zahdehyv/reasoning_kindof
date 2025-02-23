@@ -1,0 +1,20 @@
+What is the eighth root of 200310018 to the nearest integer?
+11
+What is 256898883 to the power of 1/4, to the nearest integer?
+127
+What is the fourth root of 2299991 to the nearest integer?
+39
+What is 61159311 to the power of 1/6, to the nearest integer?
+20
+What is the ninth root of 86308559 to the nearest integer?
+8
+What is the cube root of 850 to the nearest integer?
+9
+What is 1404464199 to the power of 1/2, to the nearest integer?
+37476
+What is the square root of 105252115 to the nearest integer?
+10259
+What is the square root of 48024271 to the nearest integer?
+6930
+What is 153058351 to the power of 1/3, to the nearest integer?
+535

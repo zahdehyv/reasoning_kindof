@@ -1,0 +1,20 @@
+What is the biggest value in -8, -81, -5/38, -3, 4/5, 1/8?
+4/5
+What is the second smallest value in 5, -2371, -35, 6?
+-35
+Which is the fifth biggest value?  (a) -4/7  (b) -9  (c) -2/5  (d) -4  (e) 5799
+b
+Which is the fourth smallest value?  (a) -2/7  (b) -0.3  (c) -8  (d) 9  (e) -2/3  (f) -5  (g) 994
+b
+Which is the biggest value?  (a) 0  (b) 10  (c) -5  (d) 1  (e) -0.02  (f) 110  (g) -1
+f
+Which is the sixth smallest value?  (a) -10  (b) 1  (c) 13  (d) -1/4  (e) -2706  (f) -4  (g) 5
+g
+Which is the sixth biggest value?  (a) 0  (b) 4/7  (c) 1  (d) -0.5  (e) -2/9  (f) -1.47  (g) -5
+f
+Which is the third biggest value?  (a) -4/3  (b) 785  (c) 2/2177
+a
+Which is the fourth smallest value?  (a) -0.2  (b) -5  (c) -0.5  (d) -24  (e) 2  (f) -0.4
+f
+Which is the seventh smallest value?  (a) -0.7  (b) 2.605  (c) 15  (d) 0  (e) -2/9  (f) 0.3  (g) -0.4
+c

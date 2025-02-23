@@ -1,0 +1,20 @@
+Suppose 5 = 3*r + 23. Let y = r + 9. Let i = -2 + y. Solve i = j + 2 for j.
+-1
+Suppose 3*x + 9 = 0, 4*x = -2*n + 5*n - 21. Solve n*r = 7*r + 16 for r.
+-4
+Let j = 2293 + -2278. Solve 91*r + j = 86*r for r.
+-3
+Let f be 54/12*24/54. Let b(w) = w**2 - 3*w - 8. Let d(z) = z**2 - z. Let l be d(-2). Let r be b(l). Solve -f = 4*o - r for o.
+2
+Let o = 146 - 135. Let f be 0*(3 - o/((-132)/(-40))). Let d be (1 + 0)*(-1 - -1). Solve f = -d*y + 3*y + 12 for y.
+-4
+Suppose -81*n - 56*n = 203*n + 19*n. Solve n = 23*z - 11*z - 72 for z.
+6
+Let p = 13 + -7. Suppose -2*n = -4*f + 50, f - 5*n + 55 = p*f. Suppose -5*m + f = -j, 2*j - m - 15 = -4*m. Solve 0 - 15 = j*s for s.
+-5
+Let l(c) be the second derivative of c**5/20 - 2*c**4/3 + c**3/6 - 2*c**2 + 9*c. Let s be l(8). Solve 0 = -0*k - k - s for k.
+-4
+Let p = 6102 + -6099. Let y(b) = b**3 + 7*b**2 - 6*b + 16. Let l be y(-8). Solve 9 = p*x - l for x.
+3
+Let t be 1 + 42/(-36) - (-661)/6. Let l = -90 + t. Suppose -c + 5*c = 28. Solve 0 = -c*o + 3*o - l for o.
+-5

@@ -1,0 +1,20 @@
+What is the highest common factor of 12072 and 3522?
+6
+Calculate the greatest common factor of 660 and 7489500.
+60
+What is the greatest common divisor of 600533 and 342?
+19
+What is the highest common factor of 2874747 and 7015?
+1403
+Calculate the highest common factor of 1177645 and 875.
+35
+What is the highest common divisor of 4182 and 1387686?
+246
+Calculate the highest common divisor of 786 and 20952926.
+262
+Calculate the greatest common divisor of 3252604 and 202.
+202
+Calculate the greatest common divisor of 111093 and 3306.
+57
+Calculate the highest common factor of 2104 and 4832888.
+2104

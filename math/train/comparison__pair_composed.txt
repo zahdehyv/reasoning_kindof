@@ -1,0 +1,20 @@
+Let x be (2*3)/(2 + 0). Suppose -d = -6*d - 4*m + 29, -5*d - x*m + 28 = 0. Suppose 0*s - d*s = -5. Is s at most 2/3?
+False
+Let b be 4 + (3 - 77345/330). Let q = 958369/2046 + b. Let i = q + -241. Are i and 1 unequal?
+True
+Suppose u - 7 = -w - w, -w + 17 = 5*u. Suppose 0 = -3*b - 2*b. Which is smaller: b or w?
+b
+Suppose 2*o = 14 - 6, 5*d = -2*o + 293. Is d at least as big as 56?
+True
+Let q(c) = -3*c - 14. Let m be q(-8). Let w be (-33)/m*(4/(-24) + 1). Is w smaller than -3?
+False
+Suppose 0 = 112*u - 105*u + 77. Do u and 14 have the same value?
+False
+Let k(f) = -f**3 - 5*f**2 - 4*f + 3. Let g be k(-4). Let u be 6/(-152) - (-3 + g). Suppose 0 = 71*a - 23*a - 48. Is u bigger than a?
+False
+Let t = -169 - -167. Which is smaller: t or -23/8?
+-23/8
+Suppose 7*q = -12*q + 2204. Suppose 2*k - p + 3*p = -144, 0 = 2*k - 3*p + 159. Let y = q + k. Which is greater: 40 or y?
+y
+Suppose 3 = 3*t + 10*x - 5*x, 4 = 4*t + 2*x. Which is smaller: 2/105 or t?
+2/105
