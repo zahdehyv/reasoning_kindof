@@ -1,0 +1,11 @@
+{
+    "questions":"En la Isla de los Truhanes y Caballeros, los caballeros siempre dicen la verdad, los truhanes siempre miente y ningun habitante de la Isla es truhan o caballero a la vez. Hay dos habitantes de la Isla: A y B. A realiza el siguiente planteamiento: Al menos uno de nosotros es truhan. ¿Que son A y B ?",
+    "reasoning":"Supongamos que el habitante A es truhán. Entonces su planteamiento es falso, porque los truhanes siempre dicen mentira. Luego la negación de su planteamiento debe ser cierta y entonces los dos habitantes son caballeros contradiciendo la hipótesis de que A es truhán. Dado que A no puede ser truhán entonces será caballero y su planteamiento: Al menos uno de nosotros es truhán es cierto sólo si B es truhán. Entonces A es caballero y B es truhán.",
+    "answers":[4],
+    "options":{
+        "1":"A es truhán, B es truhán",
+        "2":"A es truhán, B es caballero",
+        "3":"A es caballero, B es caballero",
+        "4":"A es caballero, B es truhán"
+    }
+}
